@@ -1,0 +1,7 @@
+# Archivo pesado (~95 MB): se guarda en Google Drive, no en GitHub
+data/raw/puestos_depto_priv_por_clae2.csv
+data/raw/puestos_depto_priv_por_clae2.zip
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+~$*
