@@ -1,0 +1,840 @@
+﻿programa;tipo_beneficiario;beneficiario;cuit;provincia_id;anio;monto
+SOLUCIONA I;Empresa;100 Bares Producciones Sa;30709013293;2;2021;15000000
+SOLUCIONA I;Empresa;Advanced Biotechnology Company Sociedad Anonima;30714028665;6;2021;14970000
+SOLUCIONA I;Empresa;Agidea S.R.L.;30709765805;6;2020;14960937
+SOLUCIONA I;Empresa;Agro Allium Sa;30711728496;70;2021;3358498
+SOLUCIONA I;Empresa;Agroindustrias Regionales S.A.;30709731390;82;2021;8932600
+SOLUCIONA I;Empresa;Alberto Malito & Cia Srl;30707258558;6;2021;4709968
+SOLUCIONA I;Empresa;Allanmar International Company S.R.L.;30707839127;82;2021;11412255
+SOLUCIONA I;Empresa;Altel S.R.L.;30710917759;14;2021;6989163
+SOLUCIONA I;Empresa;Amro S.R.L.;30708774819;82;2021;4109280
+SOLUCIONA I;Empresa;Angiolab Sa;30705739729;6;2021;6057200
+SOLUCIONA I;Empresa;Arcangel Maggio Sociedad Anonima;30500802568;2;2021;14800000
+SOLUCIONA I;Empresa;As.A.Nte Servicios De Información S.A.;30710027710;2;2020;2865145
+SOLUCIONA I;Empresa;Ascanelli Sa;30707932402;14;2021;14415000
+SOLUCIONA I;Empresa;Asociación Civil Para El Desarrollo Y La Innovación Competitiva Agencia Rafaela;30709558850;82;2021;14475651
+SOLUCIONA I;Empresa;Aumed S.A.S.;30715701339;14;2020;9921040
+SOLUCIONA I;Empresa;Aynou S.A.;30711764158;2;2021;14999581
+SOLUCIONA I;Empresa;Azur Soil S.A.;30714503304;6;2021;15000000
+SOLUCIONA I;Empresa;B Y B Herramientas Srl;33714863199;82;2021;10080000
+SOLUCIONA I;Empresa;Beneficial Germs S.A.;30711964149;6;2020;14947500
+SOLUCIONA I;Empresa;Biocodices S.A.;30714629901;2;2020;14361000
+SOLUCIONA I;Empresa;Biogénesis Bagó;30653399819;6;2021;14815944
+SOLUCIONA I;Empresa;Bioinnovo S.A.;30714645427;6;2020;10455000
+SOLUCIONA I;Empresa;Biomakers S.A.;30707977686;2;2020;14983508
+SOLUCIONA I;Empresa;Biosidus S.A.;30598117094;2;2021;12049192
+SOLUCIONA I;Empresa;Biovita Sudamericana S.A.;30714824941;6;2020;13793700
+SOLUCIONA I;Empresa;Block S.R.L.;30715458353;54;2021;2768000
+SOLUCIONA I;Empresa;Cámara De Instituciones De Diagnóstico Médico (Cadime);30609357718;2;2020;8239992
+SOLUCIONA I;Empresa;Capital Intelectual S.A.;30691027437;2;2020;14988000
+SOLUCIONA I;Empresa;Carrocerias Navarro Hnos S.A.;30556861699;6;2021;10352027
+SOLUCIONA I;Empresa;Cdr Productora Audiovisual S.A.;30716302039;2;2021;14938110
+SOLUCIONA I;Empresa;Cigora S.A.;30715877038;6;2021;1132880
+SOLUCIONA I;Empresa;Col S.A.;30708792469;50;2021;9023037
+SOLUCIONA I;Empresa;Condor Group Srl;30698244360;82;2021;13681644
+SOLUCIONA I;Empresa;Connecting Logistica Urbana S.A.;33715986359;2;2020;14142846
+SOLUCIONA I;Empresa;Cooperativa Batan De Obras Y Servicios Publicos Limitada;30676790698;6;2020;8013908
+SOLUCIONA I;Empresa;Cooperativa De Trabajo Cultural Kultrum Lda;30715407546;6;2020;11222738
+SOLUCIONA I;Empresa;Cooperativa De Trabajo Ingeniar Limitada;30714902373;14;2021;1959740
+SOLUCIONA I;Empresa;Corporación Vitivinicola Argentina;30709026484;50;2021;13970000
+SOLUCIONA I;Empresa;Crux Marine S.A.S.;33716479019;2;2020;14981563
+SOLUCIONA I;Empresa;Cryptolab S.A.S.;30716135191;14;2021;7981730
+SOLUCIONA I;Empresa;Cubic Post S.R.L.;30716589087;2;2021;14990000
+SOLUCIONA I;Empresa;Cumbresoft Sas;30715901192;50;2021;7139075
+SOLUCIONA I;Empresa;Damez Electronica Profesional S.R.L.;30624670635;2;2020;10250675
+SOLUCIONA I;Empresa;Deitres S.A.;30711090394;6;2020;14764000
+SOLUCIONA I;Empresa;Delta Este S.A.;30708227249;58;2021;11224753
+SOLUCIONA I;Empresa;Descar Argentina S R L;30709906239;14;2021;12205000
+SOLUCIONA I;Empresa;Desitec S.A.;30715538225;2;2020;6425900
+SOLUCIONA I;Empresa;Diagramma S.A;30636616318;82;2021;10652020
+SOLUCIONA I;Empresa;Discar S.A;33622362169;14;2021;6253099
+SOLUCIONA I;Empresa;Edge S.A.;30715229915;14;2021;10334652
+SOLUCIONA I;Empresa;Editorial Acción Sa;30711570000;2;2021;12865250
+SOLUCIONA I;Empresa;Editorial Orsai S.R.L.;30713339802;2;2020;13010600
+SOLUCIONA I;Empresa;Enef Solutions S.A.S.;30716483572;2;2021;1187455
+SOLUCIONA I;Empresa;Enlace Molecular S.R.L.;30716420120;6;2021;1636690
+SOLUCIONA I;Empresa;Escorial S.A.I.C.;30503255533;6;2020;11903375
+SOLUCIONA I;Empresa;Euroideas S.R.L.;30708830964;6;2020;2330000
+SOLUCIONA I;Empresa;Fadicad S.A.;30680971478;14;2020;14347050
+SOLUCIONA I;Empresa;Feas Electronica S.A.;30707702199;14;2020;4853200
+SOLUCIONA I;Empresa;Finca Las Rosas Srl;30716372436;70;2021;2057158
+SOLUCIONA I;Empresa;Flexbit S.R.L.;30715865552;2;2020;1194020
+SOLUCIONA I;Empresa;Fundacion Argentina De Nanotecnologia (F.A.N.);33709329249;6;2020;6885417
+SOLUCIONA I;Empresa;Fundacion De Investigación Y Desarrollo Agropecuario;30707744037;2;2020;5403408
+SOLUCIONA I;Empresa;Fundación Observatorio Pyme;30709855529;2;2021;2941520
+SOLUCIONA I;Empresa;Fundación Red Millenium;30708240490;90;2020;5647769
+SOLUCIONA I;Empresa;Fundación Turismo & Tecnología;30708461497;2;2020;1415600
+SOLUCIONA I;Empresa;Geminis Farmaceutica S A;30657674296;6;2021;11461380
+SOLUCIONA I;Empresa;Genofeed S.A.;30716256576;54;2020;13582800
+SOLUCIONA I;Empresa;Ghm Satelital Sas;30716976366;70;2021;14781551
+SOLUCIONA I;Empresa;Gisens Biotech S.A.;30716790092;2;2020;3527000
+SOLUCIONA I;Empresa;Global Computer Reality Training Technology S.A.S.;30716297175;2;2020;6254000
+SOLUCIONA I;Empresa;Gpe Sistemas Sas;30716086433;6;2021;6059365
+SOLUCIONA I;Empresa;Grupo Eventos Tv S.A.;30710450818;82;2021;14990000
+SOLUCIONA I;Empresa;Grupo Nucleo S.A.;30709332445;6;2020;14604000
+SOLUCIONA I;Empresa;Hitec S.R.L.;33614972659;2;2020;4967077
+SOLUCIONA I;Empresa;Hma4 S.A.;30710323484;6;2021;4258110
+SOLUCIONA I;Empresa;Indie Films S.A.S.;30715944320;14;2020;8589891
+SOLUCIONA I;Empresa;Indrasa Biotecnologia S.A.;33714529809;14;2020;14800050
+SOLUCIONA I;Empresa;Ingeniería Metabólica S.A.;30714144673;82;2021;14999712
+SOLUCIONA I;Empresa;Inmunova S.A.;30709896527;6;2020;15000000
+SOLUCIONA I;Empresa;Instituto Andino Patagónico De Tecnologías Geológicas Y Geoambientales (Ipatec);30715328433;62;2020;14164050
+SOLUCIONA I;Empresa;Instituto Biológico Argentino S.A.I.C.;30501145315;6;2020;14992627
+SOLUCIONA I;Empresa;Integrales Ingeniería Y Servicios Sa;30711823758;82;2021;14824276
+SOLUCIONA I;Empresa;Inventu Train S.R.L.;30716548798;82;2021;3612271
+SOLUCIONA I;Empresa;Ivema Desarrollos;30711171890;6;2020;5161900
+SOLUCIONA I;Empresa;Jalscomers Sas;33716939729;50;2021;4344760
+SOLUCIONA I;Empresa;José M. Alladio E Hijos S.A.;30502680478;14;2021;13540000
+SOLUCIONA I;Empresa;Kovi S.R.L;30710887426;6;2021;15000000
+SOLUCIONA I;Empresa;Kubey Machine Sas;30715948660;2;2021;8331995
+SOLUCIONA I;Empresa;La Otra Mirada Asociación Civil Sin Fines De Lucro;30714875163;26;2020;13542500
+SOLUCIONA I;Empresa;La Riojana Cooperativa Vitivinifruticola De La Rioja Limitada;30632951716;46;2020;13300000
+SOLUCIONA I;Empresa;La.Te. Andes Sa;30714779334;66;2021;1220000
+SOLUCIONA I;Empresa;Laboratorios Richmond Sacif;30501152826;6;2021;12768000
+SOLUCIONA I;Empresa;Lácteos La Ramada S.A;30711970777;82;2021;13223500
+SOLUCIONA I;Empresa;Lactocrecer S.A.;30708307188;82;2021;15000000
+SOLUCIONA I;Empresa;Lafedar S.A.;30681071381;30;2020;15000000
+SOLUCIONA I;Empresa;Lavadero Banfield S.A.;30537631127;6;2021;11421598
+SOLUCIONA I;Empresa;Los Olivares De Venado Tuerto S.A.;30707145559;82;2021;10427200
+SOLUCIONA I;Empresa;Lubricacion Saic Sa;30519196928;6;2021;14997872
+SOLUCIONA I;Empresa;Lulo S.A.;30716086581;2;2021;6794000
+SOLUCIONA I;Empresa;Luvre Srl;30715454854;2;2021;7733409
+SOLUCIONA I;Empresa;Mabb S.A.;30709999547;6;2020;3515000
+SOLUCIONA I;Empresa;Mabxience S.A.U.;30710726562;6;2020;14998960
+SOLUCIONA I;Empresa;Machaco Films S.R.L.;30714554154;2;2021;4659397
+SOLUCIONA I;Empresa;Malditomaus Srl;30712391754;2;2021;5742335
+SOLUCIONA I;Empresa;Mindhub S.A.S.;30715763709;2;2020;7156080
+SOLUCIONA I;Empresa;Mirich Seguridad Electrónica S.A.;30715471767;30;2021;7440846
+SOLUCIONA I;Empresa;Mmj Srl;30708590602;6;2021;14996480
+SOLUCIONA I;Empresa;Mobilenik S.A.;30707488197;2;2020;2629000
+SOLUCIONA I;Empresa;Molino Trigotuc Sa;30708715472;14;2021;14951500
+SOLUCIONA I;Empresa;Moq Sa;30715821849;2;2021;4096000
+SOLUCIONA I;Empresa;Nialtec Sa;33685836829;6;2021;14262875
+SOLUCIONA I;Empresa;Nrs S.A.;30711647011;6;2020;13845350
+SOLUCIONA I;Empresa;Oliver S.A.S;30715859579;14;2021;5582922
+SOLUCIONA I;Empresa;Optica Elena S.R.L.;30695639550;82;2020;11513000
+SOLUCIONA I;Empresa;Pragmática S.R.L.;30710410867;58;2020;3653937
+SOLUCIONA I;Empresa;Probyp Sa;30708620579;30;2021;11552002
+SOLUCIONA I;Empresa;Productos Bio-Lógicos S.A.;30710675100;6;2020;14999104
+SOLUCIONA I;Empresa;Prominente S A;33620499779;14;2021;8791500
+SOLUCIONA I;Empresa;Proyeccion Electroluz S.R.L.;30601271903;82;2021;14992850
+SOLUCIONA I;Empresa;Pulpo S.A.;30713130504;94;2020;11977140
+SOLUCIONA I;Empresa;Qmax S.R.L.;33708248849;2;2020;12836800
+SOLUCIONA I;Empresa;Qualab S.A.S.;30716395002;50;2020;14831500
+SOLUCIONA I;Empresa;Quimica Abiquim Sas;30716100699;6;2021;14999683
+SOLUCIONA I;Empresa;Reciclar S.A.;30677849947;6;2021;15000000
+SOLUCIONA I;Empresa;Rubikia;30716616378;82;2021;7217000
+SOLUCIONA I;Empresa;S.A.B.E.R.R.Sistema De Aceleracion Biotecnologico Empresarial Para Rosario Y Su Region S.R.L;30711147531;82;2021;14997670
+SOLUCIONA I;Empresa;Servicio Satelital Sa;30658891037;2;2021;13941610
+SOLUCIONA I;Empresa;Sohipren Sa;30620810521;14;2021;8973480
+SOLUCIONA I;Empresa;Solamb S.R.L.;30710084358;82;2021;9983078
+SOLUCIONA I;Empresa;Sqalmon Srl;33714630909;2;2021;2272564
+SOLUCIONA I;Empresa;Sti Soluciones Tecnologicas Industriales S.A.S.;30715707361;14;2020;14991500
+SOLUCIONA I;Empresa;Sur Emprendimientos Tecnológicos S.R.L.;30709855499;2;2020;10645552
+SOLUCIONA I;Empresa;Sylice S.A.S.;30716587033;90;2020;2132317
+SOLUCIONA I;Empresa;Tec Net S.R.L.;30708125101;58;2020;2446476
+SOLUCIONA I;Empresa;Técnicas Avanzadas De Ingeniería S.A.;30699922125;82;2021;14999999
+SOLUCIONA I;Empresa;Tecnología Argentina En Cintas S.A.;30606550177;6;2020;14890263
+SOLUCIONA I;Empresa;Tecnovax S.A;30708430001;6;2021;14981525
+SOLUCIONA I;Empresa;Teknix Arg Srl;30648570518;14;2021;6227000
+SOLUCIONA I;Empresa;Terragene Sa;30709585939;82;2021;13320400
+SOLUCIONA I;Empresa;Tesla Medical Devices S.A.;30714158763;6;2021;7855000
+SOLUCIONA I;Empresa;The Foley Bros Sas;30716374927;2;2021;7303082
+SOLUCIONA I;Empresa;Tierras Del Tulum Srl;30710608233;70;2021;3359953
+SOLUCIONA I;Empresa;Trufas Del Nuevo Mundo S.A.;30711667136;2;2021;9695000
+SOLUCIONA I;Empresa;Tsa S.R.L;30715030094;14;2021;7644268
+SOLUCIONA I;Empresa;Uberall Corporation S.A.;33711421799;2;2021;1463500
+SOLUCIONA I;Empresa;Unidigital S.A.;30712116281;2;2021;13731730
+SOLUCIONA I;Empresa;Union Agricola De Avellaneda Coop Ltda;30501912405;82;2021;14894043
+SOLUCIONA I;Empresa;Unión De Comerciantes E Industriales Del Departamento San Lorenzo;30578035849;82;2021;5471000
+SOLUCIONA I;Empresa;Universidad Católica De Cordoba;30539679100;14;2020;14997186
+SOLUCIONA I;Empresa;Universidad Nacional Arturo Jauretche;30711340161;6;2020;14955288
+SOLUCIONA I;Empresa;Universidad Nacional De Entre Rios;30562252157;30;2020;14711767
+SOLUCIONA I;Empresa;Universidad Nacional De Jose C Paz;30711655480;6;2020;13970000
+SOLUCIONA I;Empresa;Universidad Nacional De Moreno;30711426287;6;2021;4990154
+SOLUCIONA I;Empresa;Universidad Nacional De Quilmes;30642137251;6;2020;15000000
+SOLUCIONA I;Empresa;Universidad Nacional De San Martín;30662473916;6;2021;14999085
+SOLUCIONA I;Empresa;Universidad Nacional Del Chaco Austral;30710588968;22;2021;7152971
+SOLUCIONA I;Empresa;Universidad Nacional Del Litoral;30546670550;82;2020;3405328
+SOLUCIONA I;Empresa;Universidad Tecnologica Nacional;30546671166;14;2020;14999556
+SOLUCIONA I;Empresa;Vainn S.R.L.;30716899698;14;2021;8655795
+SOLUCIONA I;Empresa;Vitron Biotecnología Vegetal Argentina Srl;30716425637;6;2021;13465160
+SOLUCIONA I;Empresa;Vitruvio Labs S.A.S.;30716801981;2;2020;1457500
+SOLUCIONA I;Empresa;Vivero Del Oeste Riojano Sapem;30711253617;46;2021;14251944
+SOLUCIONA I;Empresa;Volpor S.A;30708222085;6;2021;14750015
+SOLUCIONA I;Empresa;Wakke Sa;30710353936;6;2021;5422482
+SOLUCIONA I;Empresa;Wk1 S.A.;30712551719;54;2021;14994320
+SOLUCIONA I;Empresa;Xaviasolutions S.A.;30715954474;2;2020;3078000
+SOLUCIONA I;Empresa;Zelltek S.A.;33674622789;82;2021;14986700
+SOLUCIONA I;Empresa;INFINITY PHARMA S.A;30716866927;2;2020;14250000
+SOLUCIONA I;Empresa;SUPERACCION S.R.L.;30715294792;6;2020;14975694
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
+SOLUCIONA I;Empresa;;;;;
