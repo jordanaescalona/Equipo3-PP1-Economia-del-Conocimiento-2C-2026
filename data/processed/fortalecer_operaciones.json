@@ -1,0 +1,163 @@
+[
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "organismo_nombre_o_razon_social",
+    "expression": "grel:value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna organismo_nombre_o_razon_social usando la expresión grel:value.trim()"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "organismo_nombre_o_razon_social",
+    "newColumnName": "beneficiario",
+    "description": "Renombra la columna organismo_nombre_o_razon_social a beneficiario"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "organismo_cuit",
+    "expression": "grel:value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna organismo_cuit usando la expresión grel:value.toString()"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "organismo_cuit",
+    "newColumnName": "cuit",
+    "description": "Renombra la columna organismo_cuit a cuit"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "resolucion_numero",
+    "expression": "grel:toString(value).match(/.*?(20\\d\\d).*/).get(0)",
+    "onError": "set-to-blank",
+    "newColumnName": "anio",
+    "columnInsertIndex": 9,
+    "description": "Crear la columna anio en el índice 9 basada en la columna resolucion_numero usando la expresión grel:toString(value).match(/.*?(20\\d\\d).*/).get(0)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "anio",
+    "expression": "grel:value.toString()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna anio usando la expresión grel:value.toString()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "anio",
+    "expression": "grel:value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna anio usando la expresión grel:value.toNumber()"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "anr_aprobado",
+    "newColumnName": "monto",
+    "description": "Renombra la columna anr_aprobado a monto"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "beneficiario",
+    "expression": "grel:\"NODOS\"",
+    "onError": "set-to-blank",
+    "newColumnName": "programa",
+    "columnInsertIndex": 1,
+    "description": "Crear la columna programa en el índice 1 basada en la columna beneficiario usando la expresión grel:\"NODOS\""
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "beneficiario",
+    "expression": "grel:\"Polo/Clúster\"",
+    "onError": "set-to-blank",
+    "newColumnName": "tipo_beneficiario",
+    "columnInsertIndex": 1,
+    "description": "Crear la columna tipo_beneficiario en el índice 1 basada en la columna beneficiario usando la expresión grel:\"Polo/Clúster\""
+  },
+  {
+    "op": "core/column-reorder",
+    "columnNames": [
+      "programa",
+      "tipo_beneficiario",
+      "beneficiario",
+      "cuit",
+      "provincia_id",
+      "anio",
+      "monto"
+    ],
+    "description": "Reorganizar columnas"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "monto",
+    "expression": "jython:return \"%.2f\" % value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna monto usando la expresión jython:return \"%.2f\" % value"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "programa",
+    "expression": "grel:\"FORTALECER\"",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna programa usando la expresión grel:\"FORTALECER\""
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "tipo_beneficiario",
+    "expression": "grel:\"Empresa\"",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna tipo_beneficiario usando la expresión grel:\"Empresa\""
+  }
+]
