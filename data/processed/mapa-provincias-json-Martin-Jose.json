@@ -1,0 +1,7 @@
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "nombre_sysarmy",
+    "description": "Eliminar columna nombre_sysarmy"
+  }
+]
