@@ -1,92 +1,16 @@
 [
   {
-    "op": "core/row-removal",
+    "op": "core/text-transform",
     "engineConfig": {
-      "facets": [
-        {
-          "type": "list",
-          "name": "dedicacion",
-          "expression": "isBlank(value)",
-          "columnName": "dedicacion",
-          "invert": false,
-          "omitBlank": false,
-          "omitError": false,
-          "selection": [
-            {
-              "v": {
-                "v": true,
-                "l": "true"
-              }
-            }
-          ],
-          "selectBlank": false,
-          "selectError": false
-        }
-      ],
+      "facets": [],
       "mode": "row-based"
     },
-    "description": "Remove rows"
-  },
-  {
-    "op": "core/column-reorder",
-    "columnNames": [
-      "donde_estas_trabajando",
-      "dedicacion",
-      "tipo_de_contrato",
-      "trabajo_de",
-      "seniority",
-      "anos_de_experiencia",
-      "ultimo_salario_mensual_o_retiro_bruto_en_pesos_argentinos",
-      "pagos_en_dolares",
-      "sueldo_dolarizado",
-      "modalidad_de_trabajo",
-      "que_tanto_estas_usando_copilotchatgpt_u_otras_herramientas_de_ia_para_tu_trabajo",
-      "genero",
-      "tengo_edad"
-    ],
-    "description": "Reorganizar columnas"
-  },
-  {
-    "op": "core/column-rename",
-    "oldColumnName": "tipo_de_contrato",
-    "newColumnName": "tipo_contrato",
-    "description": "Renombra la columna tipo_de_contrato a tipo_contrato"
-  },
-  {
-    "op": "core/column-rename",
-    "oldColumnName": "trabajo_de",
-    "newColumnName": "puesto",
-    "description": "Renombra la columna trabajo_de a puesto"
-  },
-  {
-    "op": "core/column-rename",
-    "oldColumnName": "anos_de_experiencia",
-    "newColumnName": "anios_experiencia",
-    "description": "Renombra la columna anos_de_experiencia a anios_experiencia"
-  },
-  {
-    "op": "core/column-rename",
-    "oldColumnName": "ultimo_salario_mensual_o_retiro_bruto_en_pesos_argentinos",
-    "newColumnName": "salario_bruto",
-    "description": "Renombra la columna ultimo_salario_mensual_o_retiro_bruto_en_pesos_argentinos a salario_bruto"
-  },
-  {
-    "op": "core/column-rename",
-    "oldColumnName": "modalidad_de_trabajo",
-    "newColumnName": "modalidad",
-    "description": "Renombra la columna modalidad_de_trabajo a modalidad"
-  },
-  {
-    "op": "core/column-rename",
-    "oldColumnName": "que_tanto_estas_usando_copilotchatgpt_u_otras_herramientas_de_ia_para_tu_trabajo",
-    "newColumnName": "uso_ia",
-    "description": "Renombra la columna que_tanto_estas_usando_copilotchatgpt_u_otras_herramientas_de_ia_para_tu_trabajo a uso_ia"
-  },
-  {
-    "op": "core/column-rename",
-    "oldColumnName": "tengo_edad",
-    "newColumnName": "edad",
-    "description": "Renombra la columna tengo_edad a edad"
+    "columnName": "anios_experiencia",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna anios_experiencia usando la expresión value.toNumber()"
   },
   {
     "op": "core/text-transform",
@@ -94,12 +18,12 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "puesto",
-    "expression": "value.trim()",
+    "columnName": "id_respuesta",
+    "expression": "value.toNumber()",
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10,
-    "description": "Transforma el texto de las celdas en la columna puesto usando la expresión value.trim()"
+    "description": "Transforma el texto de las celdas en la columna id_respuesta usando la expresión value.toNumber()"
   },
   {
     "op": "core/text-transform",
@@ -107,12 +31,12 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "dedicacion",
-    "expression": "value.trim()",
+    "columnName": "provincia_id",
+    "expression": "value.toNumber()",
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10,
-    "description": "Transforma el texto de las celdas en la columna dedicacion usando la expresión value.trim()"
+    "description": "Transforma el texto de las celdas en la columna provincia_id usando la expresión value.toNumber()"
   },
   {
     "op": "core/text-transform",
@@ -120,25 +44,12 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "tipo_contrato",
-    "expression": "value.trim()",
+    "columnName": "salario_bruto",
+    "expression": "grel:value.replace(\",\", \".\")",
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10,
-    "description": "Transforma el texto de las celdas en la columna tipo_contrato usando la expresión value.trim()"
-  },
-  {
-    "op": "core/text-transform",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "columnName": "seniority",
-    "expression": "value.trim()",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10,
-    "description": "Transforma el texto de las celdas en la columna seniority usando la expresión value.trim()"
+    "description": "Transforma el texto de las celdas en la columna salario_bruto usando la expresión grel:value.replace(\",\", \".\")"
   },
   {
     "op": "core/text-transform",
@@ -159,12 +70,12 @@
       "facets": [],
       "mode": "row-based"
     },
-    "columnName": "anios_experiencia",
-    "expression": "value.toNumber()",
+    "columnName": "puesto",
+    "expression": "value.trim()",
     "onError": "keep-original",
     "repeat": false,
     "repeatCount": 10,
-    "description": "Transforma el texto de las celdas en la columna anios_experiencia usando la expresión value.toNumber()"
+    "description": "Transforma el texto de las celdas en la columna puesto usando la expresión value.trim()"
   },
   {
     "op": "core/text-transform",
@@ -204,96 +115,5 @@
     "repeat": false,
     "repeatCount": 10,
     "description": "Transforma el texto de las celdas en la columna edad usando la expresión grel:if(or(value > 90, value < 16), null, value)"
-  },
-  {
-    "op": "core/column-addition",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "baseColumnName": "donde_estas_trabajando",
-    "expression": "grel:cross(value, \"mapa provincias csv\", \"nombre_sysarmy\")[0].cells[\"provincia_id\"].value",
-    "onError": "set-to-blank",
-    "newColumnName": "provincia_id",
-    "columnInsertIndex": 1,
-    "description": "Crear la columna provincia_id en el índice 1 basada en la columna donde_estas_trabajando usando la expresión grel:cross(value, \"mapa provincias csv\", \"nombre_sysarmy\")[0].cells[\"provincia_id\"].value"
-  },
-  {
-    "op": "core/text-transform",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "columnName": "provincia_id",
-    "expression": "value.toNumber()",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10,
-    "description": "Transforma el texto de las celdas en la columna provincia_id usando la expresión value.toNumber()"
-  },
-  {
-    "op": "core/column-removal",
-    "columnName": "donde_estas_trabajando",
-    "description": "Eliminar columna donde_estas_trabajando"
-  },
-  {
-    "op": "core/text-transform",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "columnName": "sueldo_dolarizado",
-    "expression": "grel:if(value == \"VERDADERO\", 1, 0)",
-    "onError": "keep-original",
-    "repeat": false,
-    "repeatCount": 10,
-    "description": "Transforma el texto de las celdas en la columna sueldo_dolarizado usando la expresión grel:if(value == \"VERDADERO\", 1, 0)"
-  },
-  {
-    "op": "core/column-addition",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "baseColumnName": "puesto",
-    "expression": "grel:if(inArray([\"Data Scientist\", \"Data Engineer\", \"BI Analyst / Data Analyst\", \"AI Engineer\", \"AI / Prompt / Chatbots\", \"Data Governance / GRC\"], value), \"Datos e IA\", \"Resto IT\")",
-    "onError": "set-to-blank",
-    "newColumnName": "grupo_puesto",
-    "columnInsertIndex": 4,
-    "description": "Crear la columna grupo_puesto en el índice 4 basada en la columna puesto usando la expresión grel:if(inArray([\"Data Scientist\", \"Data Engineer\", \"BI Analyst / Data Analyst\", \"AI Engineer\", \"AI / Prompt / Chatbots\", \"Data Governance / GRC\"], value), \"Datos e IA\", \"Resto IT\")"
-  },
-  {
-    "op": "core/column-addition",
-    "engineConfig": {
-      "facets": [],
-      "mode": "row-based"
-    },
-    "baseColumnName": "dedicacion",
-    "expression": "grel:row.index + 1",
-    "onError": "set-to-blank",
-    "newColumnName": "id_respuesta",
-    "columnInsertIndex": 2,
-    "description": "Crear la columna id_respuesta en el índice 2 basada en la columna dedicacion usando la expresión grel:row.index + 1"
-  },
-  {
-    "op": "core/column-reorder",
-    "columnNames": [
-      "id_respuesta",
-      "provincia_id",
-      "dedicacion",
-      "tipo_contrato",
-      "puesto",
-      "grupo_puesto",
-      "seniority",
-      "anios_experiencia",
-      "salario_bruto",
-      "pagos_en_dolares",
-      "sueldo_dolarizado",
-      "modalidad",
-      "uso_ia",
-      "genero",
-      "edad"
-    ],
-    "description": "Reorganizar columnas"
   }
 ]
