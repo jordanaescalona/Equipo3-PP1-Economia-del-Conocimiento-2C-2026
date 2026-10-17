@@ -1,0 +1,1 @@
+https://apis.datos.gob.ar/series/api/series/?ids=168.1_T_CAMBI500_D_0_0_17&start_date=2025-11-25&end_date=2026-02-28&collapse=month&collapse_aggregation=avg&format=csv
