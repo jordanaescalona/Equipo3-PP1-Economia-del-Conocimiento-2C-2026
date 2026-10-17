@@ -1,0 +1,1036 @@
+id_beneficio,programa,tipo_beneficiario,beneficiario,cuit,provincia_id,anio,monto
+1,Capacitacion 4.0,Gobierno,Municipalidad De Adolfo Alsina,30999036356,6,2022,720000.00
+2,Capacitacion 4.0,Gobierno,Municipalidad de Almirante Brown,33999001489,6,2020,250000.00
+3,Capacitacion 4.0,Gobierno,Municipalidad de Almirante Brown,33999001489,6,2020,250000.00
+4,Capacitacion 4.0,Gobierno,Municipalidad de Avellaneda,30999001315,6,2020,367000.00
+5,Capacitacion 4.0,Gobierno,Municipalidad de Azul,30999003601,6,2020,195105.00
+6,Capacitacion 4.0,Gobierno,Municipalidad de Bahia Blanca,30999002095,6,2020,472500.00
+7,Capacitacion 4.0,Gobierno,Municipalidad de Balcarce,30999007739,6,2020,400040.00
+8,Capacitacion 4.0,Gobierno,Municipalidad de Balcarce,30999007739,6,2021,975252.00
+9,Capacitacion 4.0,Gobierno,Municipalidad De Balcarce,30999007739,6,2022,720000.00
+10,Capacitacion 4.0,Gobierno,Municipalidad de Baradero,30999061601,6,2020,199816.00
+11,Capacitacion 4.0,Gobierno,Municipalidad de Baradero,30999061601,6,2020,298350.00
+12,Capacitacion 4.0,Gobierno,Municipalidad de Baradero,30999061601,6,2021,994407.00
+13,Capacitacion 4.0,Gobierno,Municipalidad de Benito Juarez,30999007429,6,2021,937600.00
+14,Capacitacion 4.0,Gobierno,Municipalidad de Berazategui,33999033909,6,2020,128000.00
+15,Capacitacion 4.0,Gobierno,Municipalidad de Berazategui,33999033909,6,2020,110500.00
+16,Capacitacion 4.0,Gobierno,Municipalidad de Berazategui,33999033909,6,2020,154000.00
+17,Capacitacion 4.0,Gobierno,Municipalidad de Berazategui,33999033909,6,2021,415840.00
+18,Capacitacion 4.0,Gobierno,Municipalidad de Berazategui,33999033909,6,2021,156641.00
+19,Capacitacion 4.0,Gobierno,Municipalidad de Berazategui,33999033909,6,2021,156641.00
+20,Capacitacion 4.0,Gobierno,Municipalidad de Berazategui,33999033909,6,2021,180090.00
+21,Capacitacion 4.0,Gobierno,Municipalidad De Berazategui,33999033909,6,2022,257476.00
+22,Capacitacion 4.0,Gobierno,Municipalidad De Bolivar,30999058392,6,2021,1000000.00
+23,Capacitacion 4.0,Gobierno,Municipalidad de Carlos Casares,30639359693,6,2021,896618.00
+24,Capacitacion 4.0,Gobierno,Municipalidad de Carmen de Areco,30999003539,6,2021,982500.00
+25,Capacitacion 4.0,Gobierno,Municipalidad de Coronel Pringles,30999034752,6,2020,490180.00
+26,Capacitacion 4.0,Gobierno,Municipalidad de Coronel Suarez,30999002230,6,2020,400040.00
+27,Capacitacion 4.0,Gobierno,Municipalidad de Chascomus,30999267595,6,2021,986400.00
+28,Capacitacion 4.0,Gobierno,Municipalidad de Escobar,33999034069,6,2020,499800.00
+29,Capacitacion 4.0,Gobierno,Municipalidad de Escobar,33999034069,6,2021,258315.00
+30,Capacitacion 4.0,Gobierno,Municipalidad de Escobar,33999034069,6,2021,664850.00
+31,Capacitacion 4.0,Gobierno,Municipalidad de Ezeiza,33685075259,6,2021,987316.00
+32,Capacitacion 4.0,Gobierno,Municipalidad de General Alvarado,30999017076,6,2020,153000.00
+33,Capacitacion 4.0,Gobierno,Municipalidad De General Belgrano,30999056489,6,2022,720000.00
+34,Capacitacion 4.0,Gobierno,Municipalidad de Gral Pueyrredon,30999006813,6,2020,500000.00
+35,Capacitacion 4.0,Gobierno,Municipalidad de Gral San Martin,30545681508,6,2020,308500.00
+36,Capacitacion 4.0,Gobierno,Municipalidad De General San Martin,30999126711,6,2022,1499300.00
+37,Capacitacion 4.0,Gobierno,Municipalidad de Gral Villegas,30999216311,6,2020,251420.00
+38,Capacitacion 4.0,Gobierno,Municipalidad de Hurlingham,30683897090,6,2020,497596.00
+39,Capacitacion 4.0,Gobierno,Municipalidad de Ituzaingo,30683896310,6,2020,99000.00
+40,Capacitacion 4.0,Gobierno,Municipalidad de Ituzaingo,30683896310,6,2020,117000.00
+41,Capacitacion 4.0,Gobierno,Municipalidad de Ituzaingo,30683896310,6,2021,168750.00
+42,Capacitacion 4.0,Gobierno,Municipalidad de Ituzaingo,30683896310,6,2021,168750.00
+43,Capacitacion 4.0,Gobierno,Municipalidad de Junin,30638740482,6,2021,356000.00
+44,Capacitacion 4.0,Gobierno,Municipalidad de la Matanza,34999257560,6,2020,210000.00
+45,Capacitacion 4.0,Gobierno,Municipalidad de Lanus,30999001005,6,2020,269180.00
+46,Capacitacion 4.0,Gobierno,Municipalidad de Las Flores,30999033837,6,2021,864790.00
+47,Capacitacion 4.0,Gobierno,Municipalidad De Leandro N. Alem,33640309399,6,2022,738000.00
+48,Capacitacion 4.0,Gobierno,Municipalidad de Loberia,30999022819,6,2020,245000.00
+49,Capacitacion 4.0,Gobierno,Municipalidad de Lujan,30999000947,6,2020,114100.00
+50,Capacitacion 4.0,Gobierno,Municipalidad de Lujan,30999000947,6,2020,377400.00
+51,Capacitacion 4.0,Gobierno,Municipalidad de Mar Chiquita,30639429616,6,2021,1000000.00
+52,Capacitacion 4.0,Gobierno,Municipalidad de Mercedes Provincia de Buenos Aires,30999083575,6,2020,264750.00
+53,Capacitacion 4.0,Gobierno,Municipalidad de Mercedes Provincia de Buenos Aires,30999083575,6,2020,229000.00
+54,Capacitacion 4.0,Gobierno,Municipalidad De Monte Hermoso,30638792032,6,2022,720000.00
+55,Capacitacion 4.0,Gobierno,Municipalidad de Moron,30999273250,6,2021,908655.00
+56,Capacitacion 4.0,Gobierno,Municipalidad de Navarro,30664540769,6,2020,429834.00
+57,Capacitacion 4.0,Gobierno,Municipalidad de Pellegrini,30999116236,6,2021,942681.00
+58,Capacitacion 4.0,Gobierno,Muncipalidad de Pilar,30999005825,6,2020,156768.00
+59,Capacitacion 4.0,Gobierno,Muncipalidad de Pilar,30999005825,6,2020,333640.00
+60,Capacitacion 4.0,Gobierno,Municipalidad de Punta Indio,30684587559,6,2020,470636.00
+61,Capacitacion 4.0,Gobierno,Municipalidad de Quilmes,30999004144,6,2021,965364.00
+62,Capacitacion 4.0,Gobierno,Municipalidad De Quilmes,30999004144,6,2022,1500000.00
+63,Capacitacion 4.0,Gobierno,Municipalidad de Ramallo,30999046769,6,2020,497200.00
+64,Capacitacion 4.0,Gobierno,Municipalidad de Ramallo,30999046769,6,2021,936600.00
+65,Capacitacion 4.0,Gobierno,Municipalidad de San Andres de Giles,30654925492,6,2021,947777.00
+66,Capacitacion 4.0,Gobierno,Municipalidad de San Miguel,30681617783,6,2020,496430.00
+67,Capacitacion 4.0,Gobierno,Municipalidad De Suipacha,30665138166,6,2022,1257011.00
+68,Capacitacion 4.0,Gobierno,Muncipalidad de Tandil,30999008271,6,2020,220363.00
+69,Capacitacion 4.0,Gobierno,Municipalidad de Tapalque,33999005379,6,2020,457500.00
+70,Capacitacion 4.0,Gobierno,Municipalidad de Tornquist,30638653547,6,2021,356000.00
+71,Capacitacion 4.0,Gobierno,Municipalidad De Tornquist,30638653547,6,2022,1500000.00
+72,Capacitacion 4.0,Gobierno,Municipalidad de Trenque Lauquen,33999063999,6,2020,72000.00
+73,Capacitacion 4.0,Gobierno,Municipalidad de Trenque Lauquen,33999063999,6,2020,22500.00
+74,Capacitacion 4.0,Gobierno,Municipalidad de Trenque Lauquen,33999063999,6,2020,36000.00
+75,Capacitacion 4.0,Gobierno,Municipalidad de Trenque Lauquen,33999063999,6,2021,896620.00
+76,Capacitacion 4.0,Gobierno,Municipalidad de Tres Arroyos,30999011345,6,2020,131400.00
+77,Capacitacion 4.0,Gobierno,Municipalidad Partido 3 de Febrero,30999001242,6,2020,262880.00
+78,Capacitacion 4.0,Gobierno,Municipalidad Partido 3 de Febrero,30999001242,6,2020,233200.00
+79,Capacitacion 4.0,Gobierno,Municipalidad Partido 3 de Febrero,30999001242,6,2021,546911.00
+80,Capacitacion 4.0,Gobierno,Municipalidad Partido 3 De Febrero,30999001242,6,2022,199080.00
+81,Capacitacion 4.0,Gobierno,Municipalidad De Partido 3 De Febrero,30999001242,6,2022,455260.00
+82,Capacitacion 4.0,Gobierno,Municipalidad De Partido Tres De Febrero,30999001242,6,2022,60900.00
+83,Capacitacion 4.0,Gobierno,Municipalidad de Tres de Febrero,30999001242,6,2021,209305.00
+84,Capacitacion 4.0,Gobierno,Municipalidad De Villa Gesell,30641669519,6,2022,720000.00
+85,Capacitacion 4.0,Gobierno,Provincia de Catamarca,30636511354,10,2021,432000.00
+86,Capacitacion 4.0,Gobierno,Provincia de Catamarca,30636511354,10,2021,414750.00
+87,Capacitacion 4.0,Gobierno,Municipalidad de la Ciudad de San Fernando del Valle de Catamarca,30999010357,10,2021,240000.00
+88,Capacitacion 4.0,Gobierno,Municipalidad de Tapso,33668066629,10,2021,999340.00
+89,Capacitacion 4.0,Gobierno,Municipalidad de Santa Maria,30668042844,10,2021,500000.00
+90,Capacitacion 4.0,Gobierno,Municipalidad de Santa Maria,30668042844,10,2021,500000.00
+91,Capacitacion 4.0,Gobierno,Municipalidad de Saujil,30668045126,10,2021,1000000.00
+92,Capacitacion 4.0,Gobierno,Municipalidad de Tinogasta,30668046289,10,2021,1000000.00
+93,Capacitacion 4.0,Gobierno,Municipalidad de Valle Viejo,30999037891,10,2021,988400.00
+94,Capacitacion 4.0,Gobierno,Comuna de Los Reartes,30668746701,14,2021,360000.00
+95,Capacitacion 4.0,Gobierno,Comuna De Villa Parque Los Reartes,30668681766,14,2022,720000.00
+96,Capacitacion 4.0,Gobierno,Municipalidad de Villa General Belgrano,30668656346,14,2021,360000.00
+97,Capacitacion 4.0,Gobierno,Gobierno Provincial de Cordoba,30708187123,14,2021,1000000.00
+98,Capacitacion 4.0,Gobierno,Municipalidad de Colonia Caroya,30999227712,14,2021,388000.00
+99,Capacitacion 4.0,Gobierno,Municipalidad de Colonia Caroya,30999227712,14,2021,242593.00
+100,Capacitacion 4.0,Gobierno,Municipalidad de La Calera,30999038715,14,2021,140000.00
+101,Capacitacion 4.0,Gobierno,Municipalidad de La Calera,30999038715,14,2021,388000.00
+102,Capacitacion 4.0,Gobierno,Municipalidad de La Calera,30999038715,14,2021,136888.00
+103,Capacitacion 4.0,Gobierno,Municipalidad de La Calera,30999038715,14,2021,144200.00
+104,Capacitacion 4.0,Gobierno,Municipalidad de La Calera,30999038715,14,2021,136888.00
+105,Capacitacion 4.0,Gobierno,Municipalidad de Malvinas Argentinas,30678660635,14,2021,118400.00
+106,Capacitacion 4.0,Gobierno,Municipalidad de Malvinas Argentinas,30678660635,14,2021,270000.00
+107,Capacitacion 4.0,Gobierno,Municipalidad de Mendiolaza,30682253777,14,2021,1000000.00
+108,Capacitacion 4.0,Gobierno,Municipalidad De Mendiolaza,30682253777,14,2022,1438190.00
+109,Capacitacion 4.0,Gobierno,Municipalidad de Mi Granja,30682271139,14,2020,278800.00
+110,Capacitacion 4.0,Gobierno,Municipalidad De Villa Allende,33650575739,14,2022,1350336.00
+111,Capacitacion 4.0,Gobierno,Municipalidad De Estacion Juarez Celman,30655791635,14,2022,1001500.00
+112,Capacitacion 4.0,Gobierno,Municipalidad de Villa de Soto,30658464147,14,2021,1000000.00
+113,Capacitacion 4.0,Gobierno,Municipalidad de Buchardo,30999098939,14,2022,170380.00
+114,Capacitacion 4.0,Gobierno,Municipalidad De Etruria,30999114012,14,2022,427600.00
+115,Capacitacion 4.0,Gobierno,Municipalidad de Gral Roca,30668939836,14,2021,540979.00
+116,Capacitacion 4.0,Gobierno,Municipalidad de Gral Roca,30668939836,14,2021,456339.00
+117,Capacitacion 4.0,Gobierno,Municipalidad de Saira,30999115620,14,2021,1000000.00
+118,Capacitacion 4.0,Gobierno,Comuna De Casa Grande,30678731885,14,2022,720000.00
+119,Capacitacion 4.0,Gobierno,Municipalidad de La Falda,30999025338,14,2021,300000.00
+120,Capacitacion 4.0,Gobierno,Municipalidad de La Falda,30999025338,14,2021,108000.00
+121,Capacitacion 4.0,Gobierno,Municipalidad de La Falda,30999025338,14,2021,216000.00
+122,Capacitacion 4.0,Gobierno,Municipalidad de La Falda,30999025338,14,2021,72000.00
+123,Capacitacion 4.0,Gobierno,Municipalidad de La Falda,30999025338,14,2021,270000.00
+124,Capacitacion 4.0,Gobierno,Municipalidad de San Esteban,30999045533,14,2021,912852.00
+125,Capacitacion 4.0,Gobierno,Municipalidad de Rio Cuarto,30999050685,14,2020,300000.00
+126,Capacitacion 4.0,Gobierno,Municipalidad De Santa Rosa De Rio Primero,30999075211,14,2021,281250.00
+127,Capacitacion 4.0,Gobierno,Municipalidad De Santa Rosa De Rio Primero,30999075211,14,2021,221400.00
+128,Capacitacion 4.0,Gobierno,Municipalidad de Villa Fontana,30999131936,14,2020,107275.00
+129,Capacitacion 4.0,Gobierno,Municipalidad de Laguna Larga,33999018519,14,2021,717600.00
+130,Capacitacion 4.0,Gobierno,Municipalidad De Mina Clavero,30653277934,14,2021,955000.00
+131,Capacitacion 4.0,Gobierno,Municipalidad De Mina Clavero,30653277934,14,2022,690000.00
+132,Capacitacion 4.0,Gobierno,Municipalidad De Mina Clavero,30653277934,14,2022,720000.00
+133,Capacitacion 4.0,Gobierno,Municipalidad de Nono,30669251498,14,2021,360000.00
+134,Capacitacion 4.0,Gobierno,Municipalidad De Nono,30669251498,14,2022,720000.00
+135,Capacitacion 4.0,Gobierno,Comuna de San Lorenzo,30669246583,14,2021,360000.00
+136,Capacitacion 4.0,Gobierno,Comuna De San Lorenzo,30669246583,14,2022,720000.00
+137,Capacitacion 4.0,Gobierno,Comuna De La Poblacion,30669245595,14,2022,720000.00
+138,Capacitacion 4.0,Gobierno,Municipalidad de San Javier y Yacanto,33669244059,14,2021,360000.00
+139,Capacitacion 4.0,Gobierno,Municipalidad De San Javier Y Yacanto,33669244059,14,2022,720000.00
+140,Capacitacion 4.0,Gobierno,Municipalidad de San Jose,33633885899,14,2021,474599.00
+141,Capacitacion 4.0,Gobierno,Municipalidad de San Jose,33633885899,14,2021,275000.00
+142,Capacitacion 4.0,Gobierno,Municipalidad de Villa Dolores,30657733365,14,2021,427780.00
+143,Capacitacion 4.0,Gobierno,Municipalidad de Villa Dolores,30657733365,14,2021,125200.00
+144,Capacitacion 4.0,Gobierno,Municipalidad De Devoto,30669166393,14,2022,1168750.00
+145,Capacitacion 4.0,Gobierno,Municipalidad de Marull,30657956550,14,2021,232290.00
+146,Capacitacion 4.0,Gobierno,Municipalidad De Sacanta,33669140229,14,2022,1462875.00
+147,Capacitacion 4.0,Gobierno,Municipalidad De Alta Gracia,30999012260,14,2022,1318680.00
+148,Capacitacion 4.0,Gobierno,Municipalidad De Anisacate,30709912271,14,2022,1298797.00
+149,Capacitacion 4.0,Gobierno,Municipalidad de Almafuerte,30999099471,14,2020,214000.00
+150,Capacitacion 4.0,Gobierno,Municipalidad de Almafuerte,30999099471,14,2020,78600.00
+151,Capacitacion 4.0,Gobierno,Municipalidad de Almafuerte,30999099471,14,2020,102500.00
+152,Capacitacion 4.0,Gobierno,Municipalidad de Almafuerte,30999099471,14,2021,986025.00
+153,Capacitacion 4.0,Gobierno,Municipalidad De Almafuerte,30999099471,14,2022,1459761.00
+154,Capacitacion 4.0,Gobierno,Municipalidad de San Jose de la Dormida,30999133157,14,2021,622500.00
+155,Capacitacion 4.0,Gobierno,Municipalidad de Laborde,30999063515,14,2021,82100.00
+156,Capacitacion 4.0,Gobierno,Municipalidad de Noetinger,30999063205,14,2020,455000.00
+157,Capacitacion 4.0,Gobierno,Municipalidad de Ordoñez,30668256097,14,2021,361100.00
+158,Capacitacion 4.0,Gobierno,Municipalidad de Pueblo Italiano,30668834708,14,2021,168000.00
+159,Capacitacion 4.0,Gobierno,Municipalidad de Pueblo Italiano,30668834708,14,2021,126000.00
+160,Capacitacion 4.0,Gobierno,Municipalidad de Pueblo Italiano,30668834708,14,2021,212000.00
+161,Capacitacion 4.0,Gobierno,Municipalidad de Pueblo Italiano,30668834708,14,2021,200000.00
+162,Capacitacion 4.0,Gobierno,Municipalidad de Pueblo Italiano,30668834708,14,2021,175999.00
+163,Capacitacion 4.0,Gobierno,Municipalidad de la Ciudad de Corrientes,30584152474,18,2020,499968.00
+164,Capacitacion 4.0,Gobierno,Municipalidad de Caa Caati,33647267209,18,2021,1000000.00
+165,Capacitacion 4.0,Gobierno,Municipalidad de Goya,30707455175,18,2020,296450.00
+166,Capacitacion 4.0,Gobierno,Municipalidad de Goya,30707455175,18,2020,195695.00
+167,Capacitacion 4.0,Gobierno,Intendencia Municipal de Paso de los Libres,30999056934,18,2020,366903.00
+168,Capacitacion 4.0,Gobierno,Municipalidad De Paso De Los Libres,30999056934,18,2021,711722.00
+169,Capacitacion 4.0,Gobierno,Municipalidad de San Luis del Palmar,30669649734,18,2020,301866.00
+170,Capacitacion 4.0,Gobierno,Municipalidad de San Luis del Palmar,30669649734,18,2020,191080.00
+171,Capacitacion 4.0,Gobierno,Municipalidad De San Roque,33707910289,18,2022,1264040.00
+172,Capacitacion 4.0,Gobierno,Municipalidad de Charata,33586573719,22,2020,275000.00
+173,Capacitacion 4.0,Gobierno,Municipalidad de Charata,33586573719,22,2022,500000.00
+174,Capacitacion 4.0,Gobierno,Municipalidad de Charata,33586573719,22,2022,465000.00
+175,Capacitacion 4.0,Gobierno,Municipalidad de Charata,33586573719,22,2022,535000.00
+176,Capacitacion 4.0,Gobierno,Municipalidad de General Jose de San Martin,30652993865,22,2021,360000.00
+177,Capacitacion 4.0,Gobierno,Municipalidad de Barranqueras,30670180065,22,2021,990432.00
+178,Capacitacion 4.0,Gobierno,Municipalidad de Fontana,30670206765,22,2020,500000.00
+179,Capacitacion 4.0,Gobierno,Municipalidad de Resistencia,30999167655,22,2021,1000000.00
+180,Capacitacion 4.0,Gobierno,Gobierno De Chaco,27143333480,22,2022,1430613.00
+181,Capacitacion 4.0,Gobierno,Municipalidad de Machagay,30584132414,22,2020,267000.00
+182,Capacitacion 4.0,Gobierno,Municipalidad Puerto Madryn,30999155711,26,2020,500000.00
+183,Capacitacion 4.0,Gobierno,Comision De Fomento De Puerto Piramides,30670492865,26,2021,360000.00
+184,Capacitacion 4.0,Gobierno,Municipalidad de El Hoyo,30670335395,26,2021,431250.00
+185,Capacitacion 4.0,Gobierno,Municipalidad de El Hoyo,30670335395,26,2021,168000.00
+186,Capacitacion 4.0,Gobierno,Municipalidad De El Hoyo,30670335395,26,2021,222222.00
+187,Capacitacion 4.0,Gobierno,Municipalidad de Comodoro Rivadavia,30999065593,26,2021,360000.00
+188,Capacitacion 4.0,Gobierno,Municipalidad Comodoro Rivadavia,30999065593,26,2022,720000.00
+189,Capacitacion 4.0,Gobierno,Ministro De Turismo De La Provincia Del Chubut,30707495630,26,2022,1440000.00
+190,Capacitacion 4.0,Gobierno,"Secretaria De Ciencia, Tecnologia, Innovacion Productiva Y Cultura De La Provincia De Chubut",33709584869,26,2022,1560000.00
+191,Capacitacion 4.0,Gobierno,Municipalidad de Trelew,30999223067,26,2020,249000.00
+192,Capacitacion 4.0,Gobierno,Municipalidad de Trelew,30999223067,26,2020,249000.00
+193,Capacitacion 4.0,Gobierno,Municipalidad de Rio Mayo,30670240122,26,2021,360000.00
+194,Capacitacion 4.0,Gobierno,Municipalidad De Colon,30999220475,30,2022,720000.00
+195,Capacitacion 4.0,Gobierno,Municipalidad De Pueblo Liebig,30716712741,30,2022,720000.00
+196,Capacitacion 4.0,Gobierno,Municipalidad Ciudad De San Jose,30623328461,30,2022,720000.00
+197,Capacitacion 4.0,Gobierno,Municipalidad de Concordia,30999011728,30,2020,332457.00
+198,Capacitacion 4.0,Gobierno,Municipalidad de Concordia,30999011728,30,2021,999264.00
+199,Capacitacion 4.0,Gobierno,Municipalidad de Federacion,30670851652,30,2021,499789.00
+200,Capacitacion 4.0,Gobierno,Municipalidad de San Jose de Feliciano,33670839929,30,2021,460000.00
+201,Capacitacion 4.0,Gobierno,Municipalidad de Gualeguay,30615729449,30,2021,188608.00
+202,Capacitacion 4.0,Gobierno,Municipalidad de San Jose de Gualeguaychu,30642549681,30,2020,159500.00
+203,Capacitacion 4.0,Gobierno,Municipalidad de Gualeguaychu,30642549681,30,2021,499789.00
+204,Capacitacion 4.0,Gobierno,Municipalidad de Larroque,30999025028,30,2020,500000.00
+205,Capacitacion 4.0,Gobierno,Municipalidad de Villa Paranacito,30999277450,30,2021,499789.00
+206,Capacitacion 4.0,Gobierno,Municipalidad de Santa Elena,30999036046,30,2021,356000.00
+207,Capacitacion 4.0,Gobierno,Municipalidad de Rincon de Nogoya,30716726416,30,2021,461989.00
+208,Capacitacion 4.0,Gobierno,Municipalidad de Crespo,30999053897,30,2020,229000.00
+209,Capacitacion 4.0,Gobierno,Municipalidad de Crespo,30999053897,30,2020,240000.00
+210,Capacitacion 4.0,Gobierno,Municipalidad de Crespo,30999053897,30,2021,195000.00
+211,Capacitacion 4.0,Gobierno,Municipalidad de Oro Verde,34999257706,30,2020,478090.00
+212,Capacitacion 4.0,Gobierno,Municipalidad de Parana,30999102553,30,2020,400000.00
+213,Capacitacion 4.0,Gobierno,Municipalidad de Parana,30999102553,30,2021,450000.00
+214,Capacitacion 4.0,Gobierno,Municipalidad de Parana,30999102553,30,2021,384000.00
+215,Capacitacion 4.0,Gobierno,Municipalidad de San Benito,30657230894,30,2021,220000.00
+216,Capacitacion 4.0,Gobierno,Municipalidad de San Benito,30657230894,30,2021,330000.00
+217,Capacitacion 4.0,Gobierno,Municipalidad de San Salvador,33999043939,30,2020,137250.00
+218,Capacitacion 4.0,Gobierno,Municipalidad de Basavilbaso,30643395246,30,2021,772000.00
+219,Capacitacion 4.0,Gobierno,Municipalidad de Concepcion del Uruguay Entre Rios,30999097185,30,2020,490000.00
+220,Capacitacion 4.0,Gobierno,Municipalidad de Concepcion del Uruguay Entre Rios,30999097185,30,2021,300000.00
+221,Capacitacion 4.0,Gobierno,Municipalidad de Concepcion del Uruguay Entre Rios,30999097185,30,2021,300000.00
+222,Capacitacion 4.0,Gobierno,Municipalidad de Concepcion del Uruguay Entre Rios,30999097185,30,2021,397500.00
+223,Capacitacion 4.0,Gobierno,Municipalidad De Concepcion Del Uruguay,30999097185,30,2022,277500.00
+224,Capacitacion 4.0,Gobierno,Municipalidad De Concepcion Del Uruguay,30999097185,30,2022,282720.00
+225,Capacitacion 4.0,Gobierno,Municipalidad De Concepcion Del Uruguay,30999097185,30,2022,930160.00
+226,Capacitacion 4.0,Gobierno,Municipalidad de Villaguay,30999018757,30,2021,499789.00
+227,Capacitacion 4.0,Gobierno,Municipalidad de la Ciudad de Formosa,30999060540,34,2020,500000.00
+228,Capacitacion 4.0,Gobierno,Municipalidad de Herradura,30671378977,34,2020,375700.00
+229,Capacitacion 4.0,Gobierno,Municipalidad de Herradura,30671378977,34,2021,848000.00
+230,Capacitacion 4.0,Gobierno,Municipalidad de Ibarreta,30671381110,34,2021,412000.00
+231,Capacitacion 4.0,Gobierno,Municipalidad de Ibarreta,30671381110,34,2021,588000.00
+232,Capacitacion 4.0,Gobierno,Municipalidad de Las Lomitas,30671377814,34,2020,261000.00
+233,Capacitacion 4.0,Gobierno,Municipalidad de Las Lomitas,30671377814,34,2020,54400.00
+234,Capacitacion 4.0,Gobierno,Municipalidad de Las Lomitas,30671377814,34,2020,182662.00
+235,Capacitacion 4.0,Gobierno,Municipalidad de Pozo del Tigre,30671385000,34,2021,512320.00
+236,Capacitacion 4.0,Gobierno,Municipalidad de Pozo del Tigre,30671385000,34,2021,344200.00
+237,Capacitacion 4.0,Gobierno,Municipalidad De Palma Sola,30654117159,38,2022,1499900.00
+238,Capacitacion 4.0,Gobierno,Municipalidad de Abra Pampa,33659376739,38,2021,259230.00
+239,Capacitacion 4.0,Gobierno,Municipalidad de Aguas Calientes,30671450074,38,2021,985000.00
+240,Capacitacion 4.0,Gobierno,Municipalidad de El Carmen,30999023807,38,2021,1000000.00
+241,Capacitacion 4.0,Gobierno,Municipalidad de Pampa Blanca,30671511294,38,2021,968500.00
+242,Capacitacion 4.0,Gobierno,Municipalidad de Perico,30999023734,38,2020,473788.00
+243,Capacitacion 4.0,Gobierno,Municipalidad de Puesto Viejo,30659908073,38,2020,366059.00
+244,Capacitacion 4.0,Gobierno,Municipalidad de San Salvador de Jujuy,30999012570,38,2021,1000000.00
+245,Capacitacion 4.0,Gobierno,Comision Municipal De Mina Pirquitas,30671448754,38,2022,1500000.00
+246,Capacitacion 4.0,Gobierno,Comision Municipal De Rinconada,30671451372,38,2022,1500000.00
+247,Capacitacion 4.0,Gobierno,Municipalidad de San Antonio,30999020387,38,2021,831500.00
+248,Capacitacion 4.0,Gobierno,Municipalidad De San Pedro De Jujuy,30999021510,38,2022,380700.00
+249,Capacitacion 4.0,Gobierno,Municipalidad De San Pedro De Jujuy,30999021510,38,2022,353700.00
+250,Capacitacion 4.0,Gobierno,Comision Municipal de Susques,30660030324,38,2021,1000000.00
+251,Capacitacion 4.0,Gobierno,Comision Municipal de Susques,30660030324,38,2022,1500000.00
+252,Capacitacion 4.0,Gobierno,Comision Municipal De Volcan,30671438341,38,2022,1500000.00
+253,Capacitacion 4.0,Gobierno,Comision Municipal De Barrios,30671481050,38,2022,1500000.00
+254,Capacitacion 4.0,Gobierno,Gobierno provincial de La Pampa,30999075831,42,2021,360720.00
+255,Capacitacion 4.0,Gobierno,Municipalidad de General Pico,30999062144,42,2020,162997.00
+256,Capacitacion 4.0,Gobierno,Municipalidad de Quemu Quemu,30999062381,42,2020,420200.00
+257,Capacitacion 4.0,Gobierno,Municipalidad De Quemu Quemu,30999062381,42,2022,1435000.00
+258,Capacitacion 4.0,Gobierno,Municipalidad de La Rioja,30999022509,46,2020,402090.00
+259,Capacitacion 4.0,Gobierno,Provincia De La Rioja,30714381675,46,2022,999000.00
+260,Capacitacion 4.0,Gobierno,Municipalidad Del Departamento Sanagasta,33656322719,46,2022,720000.00
+261,Capacitacion 4.0,Gobierno,Mendoza,30999070880,50,2021,982000.00
+262,Capacitacion 4.0,Gobierno,Municipalidad de La Capital,30999070880,50,2020,499500.00
+263,Capacitacion 4.0,Gobierno,Municipalidad de General Alvear,30999074916,50,2020,259200.00
+264,Capacitacion 4.0,Gobierno,Municipalidad de Gral Alvear Mza,30999074916,50,2020,106000.00
+265,Capacitacion 4.0,Gobierno,Municipalidad de General Alvear,30999074916,50,2021,56350.00
+266,Capacitacion 4.0,Gobierno,Municipalidad de Godoy Cruz,30999146917,50,2020,111000.00
+267,Capacitacion 4.0,Gobierno,Municipalidad de Godoy Cruz,30999146917,50,2020,48000.00
+268,Capacitacion 4.0,Gobierno,Municipalidad de Godoy Cruz,30999146917,50,2020,135000.00
+269,Capacitacion 4.0,Gobierno,Municipalidad de Las Heras,33654565479,50,2020,150500.00
+270,Capacitacion 4.0,Gobierno,Municipalidad de Las Heras,33654565479,50,2020,64800.00
+271,Capacitacion 4.0,Gobierno,Municipalidad de Las Heras,33654565479,50,2020,64800.00
+272,Capacitacion 4.0,Gobierno,Municipalidad de Las Heras,33654565479,50,2020,36000.00
+273,Capacitacion 4.0,Gobierno,Municipalidad de Las Heras,33654565479,50,2020,107500.00
+274,Capacitacion 4.0,Gobierno,Municipalidad de Las Heras,33654565479,50,2020,64800.00
+275,Capacitacion 4.0,Gobierno,Municipalidad de Las Heras,33654565479,50,2021,104683.00
+276,Capacitacion 4.0,Gobierno,Municipalidad de Las Heras,33654565479,50,2021,443190.00
+277,Capacitacion 4.0,Gobierno,Municipalidad de Las Heras,33654565479,50,2021,84000.00
+278,Capacitacion 4.0,Gobierno,Municipalidad de Las Heras,33654565479,50,2021,177030.00
+279,Capacitacion 4.0,Gobierno,Municipalidad de Las Heras,33654565479,50,2021,131400.00
+280,Capacitacion 4.0,Gobierno,Municipalidad de Gral. Lavalle,30676391882,50,2021,931250.00
+281,Capacitacion 4.0,Gobierno,Municipalidad de Lujan de Cuyo,30999087600,50,2021,973000.00
+282,Capacitacion 4.0,Gobierno,Municipalidad de Maipu,30999078733,50,2021,942200.00
+283,Capacitacion 4.0,Gobierno,Municipalidad de Malargüe,30672155203,50,2021,360000.00
+284,Capacitacion 4.0,Gobierno,Municipalidad de Malargüe,30672155203,50,2021,406800.00
+285,Capacitacion 4.0,Gobierno,Municipalidad de San Rafael,33999010429,50,2021,993300.00
+286,Capacitacion 4.0,Gobierno,Municipalidad de San Rafael,33999010429,50,2020,107040.00
+287,Capacitacion 4.0,Gobierno,Municipalidad de Santa Rosa,33646108239,50,2020,294000.00
+288,Capacitacion 4.0,Gobierno,Municipalidad de Santa Rosa,33646108239,50,2021,307337.00
+289,Capacitacion 4.0,Gobierno,Municipalidad de Santa Rosa,33646108239,50,2021,328800.00
+290,Capacitacion 4.0,Gobierno,Municipalidad de Tunuyan,30999169569,50,2021,360000.00
+291,Capacitacion 4.0,Gobierno,Municipalidad de Tunuyan,30999169569,50,2021,487750.00
+292,Capacitacion 4.0,Gobierno,Municipalidad De Tupungato,30999087848,50,2022,720000.00
+293,Capacitacion 4.0,Gobierno,Municipalidad de Apostoles,30999139880,54,2020,129375.00
+294,Capacitacion 4.0,Gobierno,Municipalidad de Apostoles,30999139880,54,2020,46800.00
+295,Capacitacion 4.0,Gobierno,Municipalidad de Apostoles,30999139880,54,2020,151000.00
+296,Capacitacion 4.0,Gobierno,Municipalidad de Azara,30999167345,54,2021,532506.00
+297,Capacitacion 4.0,Gobierno,Municipalidad de Azara,30999167345,54,2021,240000.00
+298,Capacitacion 4.0,Gobierno,Municipalidad De Tres Capones,30683236752,54,2022,1479330.00
+299,Capacitacion 4.0,Gobierno,Municipalidad de Aristobulo del Valle,30672348192,54,2021,492690.00
+300,Capacitacion 4.0,Gobierno,Municipalidad de Campo Grande,30999154588,54,2020,120600.00
+301,Capacitacion 4.0,Gobierno,Municipalidad de Campo Grande,30999154588,54,2021,516576.00
+302,Capacitacion 4.0,Gobierno,Municipalidad de Salto Encantado,30716863405,54,2021,491040.00
+303,Capacitacion 4.0,Gobierno,Municipalidad de Posadas,30672335880,54,2020,499030.00
+304,Capacitacion 4.0,Gobierno,Municipalidad de Eldorado,30999145783,54,2020,107480.00
+305,Capacitacion 4.0,Gobierno,Municipalidad de Eldorado,30999145783,54,2020,129211.00
+306,Capacitacion 4.0,Gobierno,Municipalidad de Eldorado,30999145783,54,2020,183400.00
+307,Capacitacion 4.0,Gobierno,Municipalidad Del Soberbio,30672394496,54,2020,94000.00
+308,Capacitacion 4.0,Gobierno,Municipalidad de San Vicente,30674242324,82,2021,900340.00
+309,Capacitacion 4.0,Gobierno,Municipalidad De San Vicente,30674242324,82,2022,1454159.00
+310,Capacitacion 4.0,Gobierno,Municipalidad de Puerto Rico,30672439546,54,2020,235100.00
+311,Capacitacion 4.0,Gobierno,Municipalidad de Puerto Rico,30672439546,54,2020,264900.00
+312,Capacitacion 4.0,Gobierno,Municipalidad de Montecarlo,30672436954,54,2021,491040.00
+313,Capacitacion 4.0,Gobierno,Municipalidad de Montecarlo,30672436954,54,2021,486100.00
+314,Capacitacion 4.0,Gobierno,Municipalidad de Obera,30999054028,54,2020,200197.00
+315,Capacitacion 4.0,Gobierno,Municipalidad de Obera,30999054028,54,2020,183900.00
+316,Capacitacion 4.0,Gobierno,Municipalidad de Obera,30999054028,54,2021,175645.00
+317,Capacitacion 4.0,Gobierno,Municipalidad de Obera,30999054028,54,2021,78000.00
+318,Capacitacion 4.0,Gobierno,Municipalidad de Obera,30999054028,54,2021,143000.00
+319,Capacitacion 4.0,Gobierno,Municipalidad de Obera,30999054028,54,2021,184100.00
+320,Capacitacion 4.0,Gobierno,Municipalidad de Obera,30999054028,54,2021,150500.00
+321,Capacitacion 4.0,Gobierno,Municipalidad de Neuquen,30639251663,58,2020,290000.00
+322,Capacitacion 4.0,Gobierno,Municipalidad de Neuquen,30639251663,58,2020,200000.00
+323,Capacitacion 4.0,Gobierno,Municipalidad de Rincon de los Sauces,30999276225,58,2020,87000.00
+324,Capacitacion 4.0,Gobierno,Municipalidad de Zapala,30999069483,58,2020,166500.00
+325,Capacitacion 4.0,Gobierno,Municipalidad de Zapala,30999069483,58,2020,166500.00
+326,Capacitacion 4.0,Gobierno,Municipalidad de Zapala,30999069483,58,2020,166500.00
+327,Capacitacion 4.0,Gobierno,Gobierno de la Provincia de Rio Negro,30672846303,62,2021,989182.00
+328,Capacitacion 4.0,Gobierno,Municipalidad de Chimpay,30672535049,62,2020,419652.00
+329,Capacitacion 4.0,Gobierno,Municipalidad Luis Beltran,30672736508,62,2020,295873.00
+330,Capacitacion 4.0,Gobierno,Municipalidad de Luis Beltran,30672736508,62,2021,800600.00
+331,Capacitacion 4.0,Gobierno,Municipalidad de San Carlos de Bariloche,30999112583,62,2021,998000.00
+332,Capacitacion 4.0,Gobierno,Municipalidad de Allen,30999023289,62,2020,465973.00
+333,Capacitacion 4.0,Gobierno,Municipalidad de Allen,30999023289,62,2021,620000.00
+334,Capacitacion 4.0,Gobierno,Municipalidad de Catriel,30672738039,62,2021,390433.00
+335,Capacitacion 4.0,Gobierno,Municipalidad de Catriel,30672738039,62,2021,197000.00
+336,Capacitacion 4.0,Gobierno,Municipalidad de Cervantes,30650561674,62,2020,339100.00
+337,Capacitacion 4.0,Gobierno,Municipalidad de Cinco Saltos,30999021200,62,2021,445559.00
+338,Capacitacion 4.0,Gobierno,Municipalidad de Cipolletti,30672737970,62,2021,300000.00
+339,Capacitacion 4.0,Gobierno,Municipalidad de Cipolletti,30672737970,62,2021,700000.00
+340,Capacitacion 4.0,Gobierno,Municipalidad de General Fernandez Oro,30672640896,62,2021,573000.00
+341,Capacitacion 4.0,Gobierno,Municipalidad de General Fernandez Oro,30672640896,62,2021,166500.00
+342,Capacitacion 4.0,Gobierno,Municipalidad de General Roca,30999068703,62,2021,522251.00
+343,Capacitacion 4.0,Gobierno,Municipalidad de Villa Regina,30586281352,62,2021,368300.00
+344,Capacitacion 4.0,Gobierno,Municipalidad de Rio Colorado,33999143259,62,2021,871276.00
+345,Capacitacion 4.0,Gobierno,Municipalidad de Dina Huapi,30673030870,62,2021,880642.00
+346,Capacitacion 4.0,Gobierno,Municipalidad de San Antonio Oeste,30648209416,62,2021,360000.00
+347,Capacitacion 4.0,Gobierno,Municipalidad de Los Menucos,30660738483,62,2021,237500.00
+348,Capacitacion 4.0,Gobierno,Los Menucos,30660738483,62,2021,614986.00
+349,Capacitacion 4.0,Gobierno,Municipalidad de Maquinchao,30672936450,62,2020,489919.00
+350,Capacitacion 4.0,Gobierno,Municipalidad de Maquinchao,30672936450,62,2021,982807.00
+351,Capacitacion 4.0,Gobierno,Municipalidad de Payogasta,30673056942,66,2020,498100.00
+352,Capacitacion 4.0,Gobierno,Municipalidad de la Ciudad de Salta,30585583533,66,2020,500000.00
+353,Capacitacion 4.0,Gobierno,Municipalidad de la Ciudad de Salta,30585583533,66,2021,499700.00
+354,Capacitacion 4.0,Gobierno,Municipalidad De Cerrillos,33999086549,66,2022,1500000.00
+355,Capacitacion 4.0,Gobierno,Municipalidad de General Guemes,30657210907,66,2020,469814.00
+356,Capacitacion 4.0,Gobierno,Municipalidad de Metan,30999046386,66,2020,426070.00
+357,Capacitacion 4.0,Gobierno,Municipalidad de Hipolito Yrigoyen,30673137985,66,2021,180000.00
+358,Capacitacion 4.0,Gobierno,Municipalidad de Hipolito Yrigoyen,30673137985,66,2021,307100.00
+359,Capacitacion 4.0,Gobierno,Municipalidad de Hipolito Yrigoyen,30673137985,66,2021,189000.00
+360,Capacitacion 4.0,Gobierno,Municipalidad de Hipolito Yrigoyen,30673137985,66,2021,242150.00
+361,Capacitacion 4.0,Gobierno,Municipalidad de Pichanal,30999044928,66,2021,999760.00
+362,Capacitacion 4.0,Gobierno,Municipalidad de Rosario de la Frontera,30999238110,66,2020,385800.00
+363,Capacitacion 4.0,Gobierno,Municipalidad de Angastaco,30673064139,66,2021,360000.00
+364,Capacitacion 4.0,Gobierno,Municipalidad de Albardon,30681672407,70,2021,610000.00
+365,Capacitacion 4.0,Gobierno,Municipalidad de Albardon,30681672407,70,2021,390000.00
+366,Capacitacion 4.0,Gobierno,Municipalidad de Calingasta,30673321247,70,2021,950520.00
+367,Capacitacion 4.0,Gobierno,Municipalidad De Chimbas,30651511387,70,2021,450000.00
+368,Capacitacion 4.0,Gobierno,Municipalidad De Chimbas,30651511387,70,2022,555000.00
+369,Capacitacion 4.0,Gobierno,Municipalidad de Iglesia,33655032989,70,2021,950520.00
+370,Capacitacion 4.0,Gobierno,Municipalidad de Jachal,30655467897,70,2021,950520.00
+371,Capacitacion 4.0,Gobierno,Municipalidad de Rawson,30673246245,70,2020,136000.00
+372,Capacitacion 4.0,Gobierno,Municipalidad de Rawson,30673246245,70,2020,67000.00
+373,Capacitacion 4.0,Gobierno,Municipalidad de Rawson,30673246245,70,2020,121000.00
+374,Capacitacion 4.0,Gobierno,Municipalidad de Rawson,30673246245,70,2020,114000.00
+375,Capacitacion 4.0,Gobierno,Municipalidad de Rivadavia,30661026479,70,2021,1000000.00
+376,Capacitacion 4.0,Gobierno,Municipalidad de Ullum,30691862174,70,2021,950520.00
+377,Capacitacion 4.0,Gobierno,Municipalidad De La Toma,30657860847,74,2022,720000.00
+378,Capacitacion 4.0,Gobierno,Municipalidad de Naschel,30673457289,74,2020,500000.00
+379,Capacitacion 4.0,Gobierno,Municipalidad de Los Molles,30673451795,74,2021,360000.00
+380,Capacitacion 4.0,Gobierno,Municipalidad Los Molles,30673451795,74,2022,720000.00
+381,Capacitacion 4.0,Gobierno,Municipalidad de Villa de Merlo,30584229973,74,2021,360000.00
+382,Capacitacion 4.0,Gobierno,Municipalidad de Villa de Merlo,30584229973,74,2022,1499994.00
+383,Capacitacion 4.0,Gobierno,Municipalidad de Caleta Olivia,30571300393,78,2020,119833.00
+384,Capacitacion 4.0,Gobierno,Municipalidad de Las Parejas,33673852969,82,2021,929500.00
+385,Capacitacion 4.0,Gobierno,Municipalidad de Rafaela,30999146534,82,2020,120550.00
+386,Capacitacion 4.0,Gobierno,Municipalidad de Rafaela,30999146534,82,2020,177224.00
+387,Capacitacion 4.0,Gobierno,Municipalidad de Rafaela,30999146534,82,2021,913625.00
+388,Capacitacion 4.0,Gobierno,Municipalidad de Empalme Villa Constitucion,30999073235,82,2021,999660.00
+389,Capacitacion 4.0,Gobierno,Municipalidad de Firmat,30999043484,82,2021,540600.00
+390,Capacitacion 4.0,Gobierno,Municipalidad de Firmat,30999043484,82,2021,289680.00
+391,Capacitacion 4.0,Gobierno,Municipalidad Villa Constitucion,30999035058,82,2020,448000.00
+392,Capacitacion 4.0,Gobierno,Municipalidad de Villa Constitucion,30999035058,82,2021,999660.00
+393,Capacitacion 4.0,Gobierno,Comuna De Maggiolo,30639506076,82,2022,973000.00
+394,Capacitacion 4.0,Gobierno,Comuna de Maria Teresa,30639505843,82,2020,458380.00
+395,Capacitacion 4.0,Gobierno,Municipalidad de Venado Tuerto,30637897647,82,2020,446000.00
+396,Capacitacion 4.0,Gobierno,Municipalidad de Avellaneda,30674336744,82,2020,499553.00
+397,Capacitacion 4.0,Gobierno,Municipalidad de Cañada de Gomez,30648599966,82,2021,54000.00
+398,Capacitacion 4.0,Gobierno,Municipalidad de Cañada de Gomez,30648599966,82,2021,77167.00
+399,Capacitacion 4.0,Gobierno,Municipalidad de Cañada de Gomez,30648599966,82,2021,115751.00
+400,Capacitacion 4.0,Gobierno,Municipalidad de Cañada de Gomez,30648599966,82,2021,108000.00
+401,Capacitacion 4.0,Gobierno,Municipalidad de Llambi Campbell,30674574874,82,2021,1000000.00
+402,Capacitacion 4.0,Gobierno,Municipalidad de Santa Fe,30999033381,82,2020,223940.00
+403,Capacitacion 4.0,Gobierno,Municipalidad De Santa Fe,30999033381,82,2022,610000.00
+404,Capacitacion 4.0,Gobierno,Municipalidad De Sauce Viejo,30678357606,82,2022,720000.00
+405,Capacitacion 4.0,Gobierno,Municipalidad de Esperanza,33650495859,82,2020,276575.00
+406,Capacitacion 4.0,Gobierno,Municipalidad de Esperanza,33650495859,82,2021,990003.00
+407,Capacitacion 4.0,Gobierno,Municipalidad De Esperanza,33650495859,82,2022,746120.00
+408,Capacitacion 4.0,Gobierno,Comuna de Albarellos,30651291220,82,2020,201825.00
+409,Capacitacion 4.0,Gobierno,Comuna de Albarellos,30651291220,82,2020,124200.00
+410,Capacitacion 4.0,Gobierno,Municipalidad de Arroyo Seco,30656606742,82,2020,220800.00
+411,Capacitacion 4.0,Gobierno,Municipalidad de Arroyo Seco,30656606742,82,2020,128800.00
+412,Capacitacion 4.0,Gobierno,Comuna de Fighiera,30675003277,82,2020,201825.00
+413,Capacitacion 4.0,Gobierno,Comuna de Fighiera,30675003277,82,2020,124200.00
+414,Capacitacion 4.0,Gobierno,Comuna de Fighiera,30675003277,82,2021,310500.00
+415,Capacitacion 4.0,Gobierno,Comuna de Fighiera,30675003277,82,2021,207000.00
+416,Capacitacion 4.0,Gobierno,Comuna De Fighiera,30675003277,82,2022,617550.00
+417,Capacitacion 4.0,Gobierno,Municipalidad de Rosario,30999003156,82,2020,218500.00
+418,Capacitacion 4.0,Gobierno,Muicipio de Rosario,30999003156,82,2021,123500.00
+419,Capacitacion 4.0,Gobierno,Municipalidad de Carcaraña,30999072174,82,2021,998416.00
+420,Capacitacion 4.0,Gobierno,Municipalidad de Luis Palacios,30676898863,82,2021,744171.00
+421,Capacitacion 4.0,Gobierno,Municipalidad de la Ciudad de La Banda,30999140595,86,2021,360000.00
+422,Capacitacion 4.0,Gobierno,Santiago del Estero,30999164990,86,2021,605750.00
+423,Capacitacion 4.0,Gobierno,Provincia de Santiago del Estero,30999164990,86,2021,392832.00
+424,Capacitacion 4.0,Gobierno,Municipalidad De La Capital,30999075149,86,2022,664183.00
+425,Capacitacion 4.0,Gobierno,Municipalidad de Nueva Esperanza,30999140730,86,2020,275000.00
+426,Capacitacion 4.0,Gobierno,Municipalidad de Nueva Esperanza,30999140730,86,2020,182000.00
+427,Capacitacion 4.0,Gobierno,Municipalidad de Frias,30999140420,86,2021,539213.00
+428,Capacitacion 4.0,Gobierno,Comision Municipal La Canada,30999138418,86,2021,604600.00
+429,Capacitacion 4.0,Gobierno,Comision Municipal La Canada,30999138418,86,2021,395400.00
+430,Capacitacion 4.0,Gobierno,Comision Municipal La Cañada,30999138418,86,2022,315000.00
+431,Capacitacion 4.0,Gobierno,Comision Municipal De Villa Figueroa Dpto Figueroa,30709189626,86,2022,1100000.00
+432,Capacitacion 4.0,Gobierno,Municipalidad de Quimili,30999135060,86,2021,617549.00
+433,Capacitacion 4.0,Gobierno,Municipalidad de Quimili,30999135060,86,2021,276000.00
+434,Capacitacion 4.0,Gobierno,Municipalidad de Quimili,30999135060,86,2021,104500.00
+435,Capacitacion 4.0,Gobierno,Municipalidad de Villa Ojo de Agua,33999091909,86,2021,448463.00
+436,Capacitacion 4.0,Gobierno,Municipalidad de Sumampa,30999092825,86,2020,421999.00
+437,Capacitacion 4.0,Gobierno,Municipalidad de Sumampa,30999092825,86,2021,582000.00
+438,Capacitacion 4.0,Gobierno,Municipalidad de Sumampa,30999092825,86,2021,416000.00
+439,Capacitacion 4.0,Gobierno,Municipalidad de Concepcion,30675245815,90,2021,316000.00
+440,Capacitacion 4.0,Gobierno,Municipalidad de Concepcion,30675245815,90,2021,98000.00
+441,Capacitacion 4.0,Gobierno,Municipalidad de la Ciudad de Bella Vista,30685704397,90,2021,284000.00
+442,Capacitacion 4.0,Gobierno,Municipalidad de Monteros,30656291652,90,2021,1000000.00
+443,Capacitacion 4.0,Gobierno,Provincia de Tucuman,30675428081,90,2021,865105.00
+444,Capacitacion 4.0,Gobierno,Municipalidad De Tafi Viejo,30679935522,90,2022,1470000.00
+445,Capacitacion 4.0,Gobierno,Municipalidad de Yerba Buena,30679935697,90,2020,58500.00
+446,Capacitacion 4.0,Gobierno,Municipalidad de Yerba Buena,30679935697,90,2020,70000.00
+447,Capacitacion 4.0,Gobierno,Municipalidad de Yerba Buena,30679935697,90,2020,117000.00
+448,Capacitacion 4.0,Gobierno,Municipalidad de Yerba Buena,30679935697,90,2021,648000.00
+449,Capacitacion 4.0,Gobierno,Municipalidad de Yerba Buena,30679935697,90,2021,222000.00
+450,Capacitacion 4.0,Gobierno,Municipalidad De Rio Grande,30546662981,94,2021,550000.00
+451,Capacitacion 4.0,Gobierno,Municipalidad De Rio Grande,30546662981,94,2022,720000.00
+452,Capacitacion 4.0,Gobierno,Provincia De Tierra Del Fuego Antartida E Islas Del Atlantico Sur,30546662434,94,2021,106720.00
+453,Capacitacion 4.0,Gobierno,Provincia De Tierra Del Fuego Antartida E Islas Del Atlantico Sur,30546662434,94,2021,480000.00
+454,Capacitacion 4.0,Gobierno,Provincia De Tierra Del Fuego Antartida E Islas Del Atlantico Sur,30546662434,94,2021,123210.00
+455,Capacitacion 4.0,Gobierno,Provincia De Tierra Del Fuego Antartida E Islas Del Atlantico Sur,30546662434,94,2021,140790.00
+456,Capacitacion 4.0,Gobierno,Provincia De Tierra Del Fuego Antartida E Islas Del Atlantico Sur,30546662434,94,2021,117300.00
+457,Producción Colaborativa,Empresa,Esg Dilec SA,30708334584,82,2021,7318599.56
+458,Producción Colaborativa,Empresa,Esg Dilec SA,30708334584,82,2021,4954725.00
+459,Producción Colaborativa,Empresa,Laboratorio Biológico Tandil SRL,30638064126,6,2021,4482165.00
+460,Producción Colaborativa,Empresa,Laboratorio Biológico Tandil SRL,30638064126,6,2021,1514289.23
+461,Producción Colaborativa,Empresa,Redimec SRL,33629783909,6,2021,856379.69
+462,Producción Colaborativa,Empresa,Redimec SRL,33629783909,6,2021,8313999.00
+463,Producción Colaborativa,Empresa,Itecnis SRL,30709392243,82,2021,4460000.00
+464,Producción Colaborativa,Empresa,Terragene SA,30709585939,82,2021,7959805.93
+465,Producción Colaborativa,Empresa,Terragene SA,30709585939,82,2021,6050000.00
+466,Producción Colaborativa,Empresa,Colven SA,30560312411,82,2021,600000.00
+467,Producción Colaborativa,Empresa,Colven SA,30560312411,82,2021,1260847.76
+468,Producción Colaborativa,Empresa,Vesta SA,30675024533,82,2021,234487.47
+469,Producción Colaborativa,Empresa,Vesta SA,30675024533,82,2021,3070950.00
+470,Producción Colaborativa,Empresa,MR Forja S.R.L,30715237411,14,2021,10000000.00
+471,Producción Colaborativa,Empresa,Moltech S.A,30715266144,2,2021,5320744.00
+472,Producción Colaborativa,Empresa,Moltech S.A,30715266144,2,2021,3768540.21
+473,Producción Colaborativa,Empresa,Laboratorio Varifarma SA,30682667709,6,2021,10000000.00
+474,Producción Colaborativa,Empresa,Laboratorio Varifarma SA,30682667709,6,2021,6125061.45
+475,Producción Colaborativa,Empresa,Nanox Release Technology SA,30714324809,6,2021,10000000.00
+476,Producción Colaborativa,Empresa,Ingeniería Metabólica S.A,30714144673,82,2021,904083.48
+477,Producción Colaborativa,Empresa,Ingeniería Metabólica S.A,30714144673,82,2021,9975000.00
+478,Producción Colaborativa,Empresa,Smart Argentina S.R.L,30715458973,2,2021,9900517.00
+479,Producción Colaborativa,Empresa,Universidad Nacional del Litoral,30546670550,82,2021,10000000.00
+480,Producción Colaborativa,Empresa,Productos Veterinarios SA,30707532439,82,2021,12294703.90
+481,Producción Colaborativa,Empresa,Cellargen Biotech SA,30715674595,82,2021,7000000.00
+482,Producción Colaborativa,Empresa,Biotecnofe SA,30715992198,82,2021,7000000.00
+483,Producción Colaborativa,Empresa,Vetanco S.A,30623368935,6,2021,9950000.00
+484,Producción Colaborativa,Empresa,Vetanco S.A,30623368935,6,2021,4467342.10
+485,Producción Colaborativa,Empresa,Bioinnovo S.A,30714645427,6,2021,8590000.00
+486,Producción Colaborativa,Empresa,S.A.B.E.R.R. Sistema De Aceleracion Biotecnologico Empresarial Para Rosario Y Su Region S.R.L.,30711147531,82,2022,9999750.00
+487,Producción Colaborativa,Empresa,S.A.B.E.R.R. Sistema De Aceleracion Biotecnologico Empresarial Para Rosario Y Su Region S.R.L.,30711147531,82,2022,3076623.21
+488,Producción Colaborativa,Empresa,Indrasa Biotecnologia S.A.,33714529809,14,2022,9980000.00
+489,Producción Colaborativa,Empresa,LA.TE Andes S.A.,30714779334,66,2021,797835.96
+490,Producción Colaborativa,Empresa,LA.TE Andes S.A.,30714779334,66,2021,9060000.00
+491,Producción Colaborativa,Empresa,Instituto Biológico Argentino S.A.I.C.,30501145315,2,2021,10000000.00
+492,Producción Colaborativa,Empresa,Instituto Biológico Argentino S.A.I.C.,30501145315,2,2021,3505333.64
+493,Producción Colaborativa,Empresa,Tecnovax S.A.,30708430001,6,2021,20069624.38
+494,Producción Colaborativa,Empresa,Tecnovax S.A.,30708430001,6,2021,10000000.00
+495,Producción Colaborativa,Empresa,Uncaus,30710588968,22,2021,3631596.00
+496,Producción Colaborativa,Empresa,Agroveterinaria Esperanza SA,30711427275,82,2021,7764159.00
+497,Producción Colaborativa,Empresa,Agroveterinaria Esperanza SA,30711427275,82,2021,8860466.57
+498,Producción Colaborativa,Empresa,Com Seg Argentina SAS,30716214539,22,2021,5060000.00
+499,Producción Colaborativa,Empresa,G Y F Group SAS,30716465515,22,2021,5622308.00
+500,Producción Colaborativa,Empresa,Canale S.R.L.,30584714324,14,2022,10000000.00
+501,Producción Colaborativa,Empresa,Canale S.R.L.,30584714324,14,2022,7237475.51
+502,Producción Colaborativa,Empresa,Bio Generacion S.A.S.,30716407213,14,2022,10000000.00
+503,Producción Colaborativa,Empresa,Open Technologies S.A,30712192662,2,2022,5997500.00
+504,Producción Colaborativa,Empresa,Romar Produccion Sa,30713414103,6,2022,9400000.00
+505,Producción Colaborativa,Empresa,Romar Produccion Sa,30713414103,6,2022,1952285.99
+506,Producción Colaborativa,Empresa,Aconcagua Software Factory S.A,30709404039,50,2021,4120000.00
+507,Producción Colaborativa,Empresa,Aconcagua Software Factory S.A,30709404039,50,2021,2332725.31
+508,Producción Colaborativa,Empresa,Security Consultant S.A,30710205899,50,2021,5330000.00
+509,Producción Colaborativa,Empresa,Security Consultant S.A,30710205899,50,2021,1140735.85
+510,Producción Colaborativa,Empresa,Productos Alimenticios Harmony Sa,30708140429,2,2022,10000000.00
+511,Producción Colaborativa,Empresa,Productos Alimenticios Harmony Sa,30708140429,2,2022,8786716.08
+512,Producción Colaborativa,Empresa,Instituto Andino Patagonico De Tecnologias Biologicas Y Geoambientales-Ipatec,30715328433,62,2022,10000000.00
+513,Producción Colaborativa,Empresa,Biogénesis Bagó S.A.,30653399819,6,2021,8662161.00
+514,Producción Colaborativa,Empresa,Biogénesis Bagó S.A.,30653399819,6,2021,20855558.39
+515,Producción Colaborativa,Empresa,Ferretera General Paz S.R.L.,30707297154,14,2022,860000.00
+516,Producción Colaborativa,Empresa,Ferretera General Paz S.R.L.,30707297154,14,2022,1263473.01
+517,Producción Colaborativa,Empresa,Fundación Emprendimientos Y Desarrollo,30710181175,14,2022,4950000.00
+518,FORTALECER,Empresa,Alcides Juan Araya,20206675633,50,2021,1198315.00
+519,FORTALECER,Empresa,Aliantec Solutions Sa,30711784337,2,2021,878360.00
+520,FORTALECER,Empresa,Alltrack S.A.,30716851210,42,2021,800000.00
+521,FORTALECER,Empresa,Alvarez Jorge Pablo,20262370152,42,2021,401000.00
+522,FORTALECER,Empresa,Amanda Care S.A.S,33717127809,2,2021,1200000.00
+523,FORTALECER,Empresa,Antuil S.A.S,30716686732,14,2021,892969.00
+524,FORTALECER,Empresa,Argie Tours Srl,30713569905,2,2021,1112760.00
+525,FORTALECER,Empresa,Artdecode Srl,33710725239,2,2021,477605.10
+526,FORTALECER,Empresa,Atec Ingenieria S.A,30717181898,14,2021,1200000.00
+527,FORTALECER,Empresa,Auster Ingenieria,30715242008,94,2021,1193748.00
+528,FORTALECER,Empresa,Bpanalitycal S.A.,30715859439,50,2021,1199000.00
+529,FORTALECER,Empresa,Caloian S.A.S,30716437414,6,2021,1180363.00
+530,FORTALECER,Empresa,Claudio Gerbazoni,20242643551,30,2021,952900.00
+531,FORTALECER,Empresa,COLLOQUIA S.R.L.,30715257374,82,2021,1120000.00
+532,FORTALECER,Empresa,Corrientes Telecomunicaciones S.A.P.E.M,30716550849,18,2021,619834.71
+533,FORTALECER,Empresa,Coya Sistemas,30715407082,82,2021,1200000.00
+534,FORTALECER,Empresa,Deep Sa,30707489967,82,2021,1188663.00
+535,FORTALECER,Empresa,Defymotion Sociedad Simple,30716818213,30,2021,1190000.00
+536,FORTALECER,Empresa,Diego Nicolas Fuguet,20296244695,54,2021,840000.00
+537,FORTALECER,Empresa,Ebers Med Sas,30716467658,6,2021,1150000.00
+538,FORTALECER,Empresa,Eiv Software S.R.L,30712204717,82,2021,858815.30
+539,FORTALECER,Empresa,Eje Zeta S.A.S,30716667231,50,2021,1200000.00
+540,FORTALECER,Empresa,Electromecanica Dick Costantino S.A.,30701033732,14,2021,899806.00
+541,FORTALECER,Empresa,Escudero Dardo Fabian,20220507751,74,2021,1200000.00
+542,FORTALECER,Empresa,Gennea Agro S.A.S,30716507412,18,2021,914243.60
+543,FORTALECER,Empresa,Grupo Proyectar Innovación S.R.L,33715662979,30,2021,1200000.00
+544,FORTALECER,Empresa,Inbiomed S.A,30712147187,14,2021,420000.00
+545,FORTALECER,Empresa,Inft S.A.,30710126379,14,2021,529500.00
+546,FORTALECER,Empresa,Ing Mecanizado Srl,30714324418,82,2021,1187760.00
+547,FORTALECER,Empresa,Inteligentia S.R.L,30711342725,2,2021,1200000.00
+548,FORTALECER,Empresa,Interbrain Sas,30716073137,50,2021,1116434.00
+549,FORTALECER,Empresa,Itf Innovación Tecnologica Por Fusión S.A.S,30715805118,14,2021,1062443.55
+550,FORTALECER,Empresa,Ivema Desarrollos Srl,30711171890,6,2021,1017704.00
+551,FORTALECER,Empresa,Javier Andres Fortuny,20341107912,50,2021,1177982.00
+552,FORTALECER,Empresa,Jlf Materiales Electricos S.A.,30710580363,6,2021,1117438.70
+553,FORTALECER,Empresa,Jorge Francisco Duce Bemez,20364117508,54,2021,832259.32
+554,FORTALECER,Empresa,Kozaca S.A,30715861956,82,2021,821611.00
+555,FORTALECER,Empresa,La Productora San Juan Srl,33709304009,70,2021,1024192.00
+556,FORTALECER,Empresa,Leonardo Humberto Gonzalez,20222623058,46,2021,490990.00
+557,FORTALECER,Empresa,Lh E.Commerce Y Logistica S.A.,33716361689,50,2021,855000.00
+558,FORTALECER,Empresa,Linksolution S.R.L,30710448899,2,2021,1200000.00
+559,FORTALECER,Empresa,Luis Alejandro Sundblad Alberto,20312967015,86,2021,923041.00
+560,FORTALECER,Empresa,Lyris It S.A.S,30716363380,82,2021,1181279.40
+561,FORTALECER,Empresa,Macro Intell Sa,30711318980,18,2021,1194488.00
+562,FORTALECER,Empresa,Manuel Jorge Hadad,23342389309,6,2021,650000.00
+563,FORTALECER,Empresa,Marcos Daniel Olivera,20294395912,78,2021,408668.78
+564,FORTALECER,Empresa,Mauro Martinez,20317941200,26,2021,640000.00
+565,FORTALECER,Empresa,Maximiliano Ariel Espinola,20330120100,54,2021,1115177.19
+566,FORTALECER,Empresa,Microvidas Srl,30715391186,82,2021,1200000.00
+567,FORTALECER,Empresa,Minexus Sas,30714595888,70,2021,1180655.00
+568,FORTALECER,Empresa,Moebius-It Srl,30711961026,54,2021,1200000.00
+569,FORTALECER,Empresa,Movizen S.A.S,33716247339,82,2021,1074388.00
+570,FORTALECER,Empresa,"Mys Estudio Informatico Contable De Olivera Maria Yamila, Bilbao Ciriaco Martin Y Olivera Maria Soledad",30715697285,26,2021,890570.14
+571,FORTALECER,Empresa,Oyd S.R.L,30716837862,46,2021,434000.00
+572,FORTALECER,Empresa,Penta Latinoamerica Sas,30716345315,14,2021,1192800.00
+573,FORTALECER,Empresa,Previ Srl,30714630942,82,2021,1170750.00
+574,FORTALECER,Empresa,Prisma Srl,30668162742,14,2021,1200000.00
+575,FORTALECER,Empresa,Proyectos S.R.L.,30710844743,34,2021,736200.00
+576,FORTALECER,Empresa,Quibioeco S.A,30715546961,50,2021,1200000.00
+577,FORTALECER,Empresa,Quinto Impacto S.R.L.,30715709267,50,2021,885360.00
+578,FORTALECER,Empresa,Reciclologia S.A.S,33715868429,10,2021,641745.00
+579,FORTALECER,Empresa,Region Global S.A,33712232809,6,2021,785852.00
+580,FORTALECER,Empresa,Reina De Pike S.R.L,30716978601,82,2021,1193847.00
+581,FORTALECER,Empresa,Rosario Software Sas,30709982466,82,2021,572600.00
+582,FORTALECER,Empresa,S.A.B.E.R.R.Sistema De Aceleracion Biotecnologico Empresarial Para Rosario Y Su Region S.R.L.,30711147531,82,2021,1020000.00
+583,FORTALECER,Empresa,Seed Ingenieria S.A.S,30716536595,82,2021,806890.00
+584,FORTALECER,Empresa,Sergio F Romero,20166359423,50,2021,465000.00
+585,FORTALECER,Empresa,Silvia Pérez Sisay,27204698533,62,2021,1132430.25
+586,FORTALECER,Empresa,Sipel Srl,30619593231,82,2021,1080524.00
+587,FORTALECER,Empresa,Smartmation S.A.,30711406154,2,2021,822000.00
+588,FORTALECER,Empresa,Softlogia S.R.L.,30709713384,38,2021,1200000.00
+589,FORTALECER,Empresa,Spluty Sas,30716855518,14,2021,1094318.86
+590,FORTALECER,Empresa,Tek S.R.L,30708929480,82,2021,1199999.00
+591,FORTALECER,Empresa,Tensioactivos Mdz Sa,30709382078,50,2021,788997.00
+592,FORTALECER,Empresa,Tgd S.A,30715565354,14,2021,640961.00
+593,FORTALECER,Empresa,Theeye S.A.S,30715751255,2,2021,1021122.00
+594,FORTALECER,Empresa,Travelpaq Srl En Formacion,30715427989,70,2021,1200000.00
+595,FORTALECER,Empresa,Ultima Milla S.A.,30710085915,50,2021,1101300.00
+596,FORTALECER,Empresa,Vision Y Estrategia Srl,30709676772,54,2021,1155767.11
+597,FORTALECER,Empresa,Wes-It S.A.S,33712090389,70,2021,610273.01
+598,FORTALECER,Empresa,Zymo S.R.L,30712536787,90,2021,1040600.00
+599,NODOS,Polo/Clúster,Fundacion Argentina De Nanotecnología (F.A.N.),33709329249,2,2021,14982400.00
+600,NODOS,Polo/Clúster,Asociación Civil Empresarios Para El Desarrollo Argentino,30715824910,2,2022,5897307.90
+601,NODOS,Polo/Clúster,FUNDACION ARGENTINA DE NANOTECNOLOGIA (F.A.N.),33709329249,2,2022,28943150.00
+602,NODOS,Polo/Clúster,CÁMARA ARGENTINA DE BIOTECNOLOGÍA,30712520996,2,2022,3440000.00
+603,NODOS,Polo/Clúster,CÁMARA DE INSTITUCIONES DE DIAGNÓSTICO MÉDICO,30609357718,2,2023,22784500.00
+604,NODOS,Polo/Clúster,Municipalidad Partido 3 De Febrero,30999001242,6,2021,8134922.00
+605,NODOS,Polo/Clúster,Municipalidad De Ramallo,30999046769,6,2021,7669524.00
+606,NODOS,Polo/Clúster,Municipalidad De San Miguel,30681617783,6,2021,19997275.49
+607,NODOS,Polo/Clúster,Fundaciòn Ciudad De La Plata,30656913424,6,2022,14000000.00
+608,NODOS,Polo/Clúster,Aticma (Asociación De Tecnologías De La Información Y Comunicación De Mar Del Plata),30709803901,6,2022,14400000.00
+609,NODOS,Polo/Clúster,Fundacion UNSAM Innovacion Y Tecnologia,30711249423,6,2021,19980202.00
+610,NODOS,Polo/Clúster,Municipalidad De Berazategui,33999033909,6,2021,19983249.30
+611,NODOS,Polo/Clúster,Municipalidad De Luján,30999000947,6,2021,1480000.00
+612,NODOS,Polo/Clúster,Municipalidad De General Alvarado,30999017076,6,2021,18924482.30
+613,NODOS,Polo/Clúster,Municipalidad De Tandil,30999008271,6,2021,15401460.00
+614,NODOS,Polo/Clúster,Municipalidad De Lobería,30999022819,6,2021,17979900.00
+615,NODOS,Polo/Clúster,Municipalidad De Junin,30638740482,6,2021,1500000.00
+616,NODOS,Polo/Clúster,Fundacion Atlántida Argentina,33680780019,6,2021,15430000.00
+617,NODOS,Polo/Clúster,Municipalidad De Quilmes,30999004144,6,2021,19491009.25
+618,NODOS,Polo/Clúster,Municipalidad De San Nicolas,30999005132,6,2021,1270000.00
+619,NODOS,Polo/Clúster,ASOCIACIÓN DE TECNOLOGÍA DE LA INFORMACIÓN Y COMUNICACIÓN DE MAR DEL PLATA,30709803901,6,2022,36100000.00
+620,NODOS,Polo/Clúster,FUNDACIÓN UNSAM INNOVACIÓN Y TECNOLOGÍA,30711249423,6,2022,39999673.00
+621,NODOS,Polo/Clúster,POLO TECNOLÓGICO BAHÍA BLANCA,30710233213,6,2022,2106103.57
+622,NODOS,Polo/Clúster,MUNICIPALIDAD DE PELLEGRINI,30999116236,6,2022,1800000.00
+623,NODOS,Polo/Clúster,MUNICIPALIDAD DE ESCOBAR,33999034069,6,2023,50000000.00
+624,NODOS,Polo/Clúster,FUNDACIÓN UNIVERSIDAD NACIONAL ARTURO JAURETCHE,30712339922,6,2023,30000000.00
+625,NODOS,Polo/Clúster,UBATEC S.A.,30644259486,6,2023,49911800.00
+626,NODOS,Polo/Clúster,FUNDACIÓN 360,30715861336,6,2023,50000000.00
+627,NODOS,Polo/Clúster,"Ministerio De Industria 4.0, Comercio Y Empleo De Catamarca",30716730340,10,2022,19977770.00
+628,NODOS,Polo/Clúster,"MINISTERIO DE INDUSTRIA, COMERCIO Y EMPLEO",30716730340,10,2022,28582620.00
+629,NODOS,Polo/Clúster,Cluster Tecnologico Cordoba - Asociacion Civil Sin Fines De Lucro -,30707822666,14,2021,9508813.03
+630,NODOS,Polo/Clúster,Ceprocor,30711249164,14,2021,20000000.00
+631,NODOS,Polo/Clúster,"Camara De Industrias Informaticas, Electronicas Y De Comunicaciones Del Centro De Argentina (Ciiecca)",33707786669,14,2021,14928704.00
+632,NODOS,Polo/Clúster,Municipalidad De Río Ceballos,30668413958,14,2021,1497000.00
+633,NODOS,Polo/Clúster,Municipalidad De Villa General Belgrano,30668656346,14,2021,20000000.00
+634,NODOS,Polo/Clúster,MUNICIPALIDAD DE RÍO CUARTO,30999050685,14,2022,39666607.00
+635,NODOS,Polo/Clúster,CLUSTER TIC- TECNOLOGÍA DE LA INFORMACIÓN Y DE LAS COMUNICACIONES VILLA MARÍA Y REGIÓN ASOCIACIÓN CIVIL,30716617870,14,2022,2700000.00
+636,NODOS,Polo/Clúster,CEPROCOR,30711249164,14,2022,40000000.00
+637,NODOS,Polo/Clúster,CLUSTER TECNOLÓGICO CÓRDOBA - ASOCIACIÓN CIVIL SIN FINES DE LUCRO,30707822666,14,2022,1950000.00
+638,NODOS,Polo/Clúster,CÁMARA DE PRODUCTORAS AUDIOVISUALES DE CÓRDOBA - ASOCIACIÓN CIVIL,30715138324,14,2023,40000000.00
+639,NODOS,Polo/Clúster,Ministerio De Ciencia Y Tecnología Corrientes,30716846403,18,2021,20000000.00
+640,NODOS,Polo/Clúster,Fundacion Idear,30711068771,18,2021,14979522.00
+641,NODOS,Polo/Clúster,MUNICIPALIDAD DE LA CIUDAD DE CORRIENTES,30584152474,18,2022,17907952.00
+642,NODOS,Polo/Clúster,Asociacion Civil Polo Tecnologico Del Chaco,30710716893,22,2021,6619652.00
+643,NODOS,Polo/Clúster,Municipalidad De Fontana,30670206765,22,2021,6401738.20
+644,NODOS,Polo/Clúster,MUNICIPALIDAD DE BARRANQUERAS,30670180065,22,2022,33750027.00
+645,NODOS,Polo/Clúster,"Ministerio De Agricultura, Ganadería, Industria Y Comercio De La Provincia Del Chubut",30712515798,26,2021,20000000.00
+646,NODOS,Polo/Clúster,Agencia Comodoro Conocimiento Y Desarrollo,30711089302,26,2021,19996998.30
+647,NODOS,Polo/Clúster,AGENCIA COMODORO CONOCIMIENTO Y DESARROLLO,30711089302,26,2022,40000000.00
+648,NODOS,Polo/Clúster,Corporacion Del Desarrollo De Gualeguaychu,30567601966,30,2021,1000000.00
+649,NODOS,Polo/Clúster,Municipalidad De Concepción Del Uruguay,30999097185,30,2021,13736792.00
+650,NODOS,Polo/Clúster,Municipalidad De Paraná,30999102553,30,2021,19995800.00
+651,NODOS,Polo/Clúster,Municipalidad De Concordia,30999011728,30,2021,20000000.00
+652,NODOS,Polo/Clúster,MUNICIPALIDAD DE CONCEPCIÓN DEL URUGUAY ENTRE RÍOS,30999097185,30,2022,38056000.00
+653,NODOS,Polo/Clúster,MUNICIPALIDAD DE CONCORDIA,30999011728,30,2022,40000000.00
+654,NODOS,Polo/Clúster,MUNICIPALIDAD DE PARANÁ,30999102553,30,2023,40000000.00
+655,NODOS,Polo/Clúster,Recursos Y Energía Formosa S.A.,30709668753,34,2021,16979300.00
+656,NODOS,Polo/Clúster,Fundación Nuevo Escenario,30716926415,34,2022,14369659.60
+657,NODOS,Polo/Clúster,RECURSOS Y ENERGÍA FORMOSA S.A,30709668753,34,2022,39488484.00
+658,NODOS,Polo/Clúster,Clustear (Cámara De Empresa Tic De Jujuy),30711116660,38,2022,12000000.00
+659,NODOS,Polo/Clúster,Ministerio De Desarrollo Económico Y Producción. Provincia De Jujuy,30709692875,38,2022,1500000.00
+660,NODOS,Polo/Clúster,MINISTERIO DE DESARROLLO ECONÓMICO Y PRODUCCIÓN de la Provincia de Jujuy,30709692875,38,2023,39906387.00
+661,NODOS,Polo/Clúster,Ministerio De Producción De La Pampa,30693573277,42,2022,15264571.00
+662,NODOS,Polo/Clúster,MUNICIPALIDAD DE GENERAL PICO,30999062144,42,2022,21032887.00
+663,NODOS,Polo/Clúster,Fundacion Para El Desarrollo Olivicola,30715449508,46,2021,20000000.00
+664,NODOS,Polo/Clúster,MUNICIPALIDAD DEL DPTO DE CHILECITO,30671842991,46,2022,40000000.00
+665,NODOS,Polo/Clúster,FUNDACIÓN PARA EL DESARROLLO OLIVÍCOLA,30715449508,46,2023,39446000.00
+666,NODOS,Polo/Clúster,"Instituto De Desarrollo Industrial,Tecnologico Y De Servicios",30708228458,50,2021,6620130.00
+667,NODOS,Polo/Clúster,Municipalidad De Godoy Cruz,30999146917,50,2021,19004580.00
+668,NODOS,Polo/Clúster,Asociación Civil Film Andes,30715102443,50,2022,14980000.00
+669,NODOS,Polo/Clúster,Municipalidad De Santa Rosa (Mendoza),33646108239,50,2021,17415000.00
+670,NODOS,Polo/Clúster,Municipalidad De Gral Alvear Mza,30999074916,50,2021,4566494.88
+671,NODOS,Polo/Clúster,MUNICIPALIDAD DE LA CAPITAL,30999070880,50,2022,28890000.00
+672,NODOS,Polo/Clúster,Parque Industrial Posadas Sapem,30714336688,54,2021,20000000.00
+673,NODOS,Polo/Clúster,Municipalidad De Posadas,30672335880,54,2021,18816760.84
+674,NODOS,Polo/Clúster,Asociación Civil Agencia Para El Desarrollo Productivo Del Norte Misionero,33712271839,54,2021,1000000.00
+675,NODOS,Polo/Clúster,Fundacion Parque Tecnologico Misiones,30708436409,54,2022,13591983.42
+676,NODOS,Polo/Clúster,ASOCIACIÓN CIVIL AGENCIA PARA EL DESARROLLO PRODUCTIVO DEL NORTE MISIONERO,33712271839,54,2023,37533288.00
+677,NODOS,Polo/Clúster,PARQUE INDUSTRIAL POSADAS S.A.P.E.M.,30714336688,54,2022,34835459.00
+678,NODOS,Polo/Clúster,MUNICIPALIDAD DE NEUQUÉN,30639251663,58,2022,30110706.00
+679,NODOS,Polo/Clúster,CENTRO DE LA PEQUEÑA Y MEDIANA EMPRESA-AGENCIA DE DESARROLLO ECONÓMICO DEL NEUQUÉN,30697859884,58,2022,3000000.00
+680,NODOS,Polo/Clúster,Agencia De Innovacion Y Economia Del Conocimiento,30716838974,62,2022,15520000.00
+681,NODOS,Polo/Clúster,Municipalidad De San Carlos De Bariloche,30999112583,62,2021,18836000.00
+682,NODOS,Polo/Clúster,Ministerio De Educacion Cultura Ciencia Y Tecnología De La Provincia De Salta,30999256267,66,2021,20000000.00
+683,NODOS,Polo/Clúster,"MINISTERIO DE EDUCACIÓN, CULTURA, CIENCIA Y TECNOLOGÍA",30999256267,66,2022,40000000.00
+684,NODOS,Polo/Clúster,Camara Sanjuanina De Empresa De Tecnologia De Informacion Y,33711554829,70,2022,14912000.00
+685,NODOS,Polo/Clúster,Municipalidad De San Martin,30673293847,70,2021,19988897.00
+686,NODOS,Polo/Clúster,Gobierno De La Provincia De San Juan Administracion Central,30999015162,70,2021,20000000.00
+687,NODOS,Polo/Clúster,MUNICIPALIDAD DE RIVADAVIA,30661026479,70,2022,22299137.00
+688,NODOS,Polo/Clúster,AGENCIA CALIDAD SAN JUAN SOCIEDAD DE ECONOMÍA MIXTA,30710786824,70,2022,23890082.00
+689,NODOS,Polo/Clúster,MUNICIPALIDAD DE SAN MARTÍN,30673293847,70,2022,38500000.00
+690,NODOS,Polo/Clúster,Universidad De La Punta,30709042730,74,2022,16907052.00
+691,NODOS,Polo/Clúster,UNIVERSIDAD DE LA PUNTA,30709042730,74,2022,37884900.00
+692,NODOS,Polo/Clúster,Municipalidad De Caleta Olivia,30571300393,78,2021,13950500.00
+693,NODOS,Polo/Clúster,Parque Tecnologico Del Litoral Centro S.A.P.E.M,30708060263,82,2021,19499173.55
+694,NODOS,Polo/Clúster,Grupo Polo Tecnologico Rosario,30708679417,82,2021,12752288.00
+695,NODOS,Polo/Clúster,Municipalidad De Cañada De Gomez,30648599966,82,2021,20000000.00
+696,NODOS,Polo/Clúster,MUNICIPALIDAD DE ROSARIO,30999003156,82,2022,39262035.00
+697,NODOS,Polo/Clúster,UNIVERSIDAD NACIONAL DEL LITORAL,30546670550,82,2022,39750000.00
+698,NODOS,Polo/Clúster,COMUNA DE LLAMBÍ CAMPBELL,30674574874,82,2023,20000000.00
+699,NODOS,Polo/Clúster,GRUPO POLO TECNOLÓGICO ROSARIO,30708679417,82,2023,30089071.00
+700,NODOS,Polo/Clúster,"Conocimiento, Investigacion, Innovacion Y Desarrollo Sociedad Del Estado",30717087409,86,2021,17249031.52
+701,NODOS,Polo/Clúster,Instituto De Desarrollo Productivo IDEP,33709535949,90,2022,19751756.01
+702,NODOS,Polo/Clúster,INSTITUTO DE DESARROLLO PRODUCTIVO DE TUCUMÁN,33709535949,90,2022,38181350.00
+703,NODOS,Polo/Clúster,Asociación Audiovisual Fueguino,30717370232,94,2021,6000000.00
+704,NODOS,Polo/Clúster,Asociacion Civil Centro De Desarrollo Tecnológico De Tierra Del Fuego,30715001817,94,2021,13197788.00
+705,NODOS,Polo/Clúster,Municipalidad De Rio Grande,30546662981,94,2021,20000000.00
+706,NODOS,Polo/Clúster,ASOCIACIÓN CIVIL CENTRO DE DESARROLLO TECNOLÓGICO DE TIERRA DEL FUEGO,30715001817,94,2022,36000000.00
+707,POTENCIAR Satelital,Empresa/Institución,Fundación de la Facultad De Ingeniería,30677980032,6,2021,17750800.00
+708,POTENCIAR Satelital,Empresa/Institución,Aviem Aeronáutica SRL,30715218662,6,2021,18000000.00
+709,POTENCIAR Satelital,Empresa/Institución,Miota Aerospace S.A.S.,30717147983,6,2021,17228355.00
+710,POTENCIAR Satelital,Empresa/Institución,Atx S.A.,30700595842,2,2021,16943405.00
+711,POTENCIAR Satelital,Empresa/Institución,Imer Antennas S.R.L.,30714977403,6,2021,17933200.00
+712,POTENCIAR Satelital,Empresa/Institución,Fundación Facultad De Ingeniería,30677980032,6,2021,17988550.00
+713,POTENCIAR Satelital,Empresa/Institución,Lia Aerospace S.A.,30716802759,2,2021,12590000.00
+714,POTENCIAR Satelital,Empresa/Institución,Arsultra S.A.,30713340703,2,2021,17920000.00
+715,POTENCIAR Satelital,Empresa/Institución,Universidad Nacional De Quilmes,30642137251,6,2021,16500000.00
+716,POTENCIAR Satelital,Empresa/Institución,Fundación Facultad De Ingeniería,30677980032,6,2021,17997500.00
+717,POTENCIAR Satelital,Empresa/Institución,Delta3 S.R.L.,30714264350,2,2021,17960000.00
+718,POTENCIAR Satelital,Empresa/Institución,Servicio Satelital S.A.,30658891037,2,2021,12571000.00
+719,POTENCIAR Satelital,Empresa/Institución,Dta S.A.,33709632189,14,2021,11186240.00
+720,POTENCIAR Satelital,Empresa/Institución,Ingeap S.A.S,30716084988,82,2021,6978465.00
+721,POTENCIAR Satelital,Empresa/Institución,Fundación Universidad De Palermo,33620101449,2,2021,17997000.00
+722,POTENCIAR Satelital,Empresa/Institución,Fundetec,30707127623,2,2021,17997000.00
+723,POTENCIAR Satelital,Empresa/Institución,Aerorigging S.A.S.,30717340902,14,2021,9495880.00
+724,POTENCIAR Satelital,Empresa/Institución,Fundación UNSAM Innovacion Y Tecnologia,30711249423,6,2021,17985520.00
+725,POTENCIAR Satelital,Empresa/Institución,Ascentio Technologies S.A,30710742584,14,2021,10864497.00
+726,POTENCIAR Satelital,Empresa/Institución,Latamsat S.A.S.,30716339773,14,2021,7560000.00
+727,POTENCIAR Satelital,Empresa/Institución,Arsat S.A.,30709670413,6,2021,12832105.00
+728,POTENCIAR Satelital,Empresa/Institución,Universidad Nacional De Gral. San Martín,30662473916,6,2023,36000000.00
+729,POTENCIAR Satelital,Empresa/Institución,Universidad Nacional De Gral. San Martín,30662473916,6,2023,35000000.00
+730,POTENCIAR Satelital,Empresa/Institución,Fundación De La Facultad De Ingeniería Para La Transferencia Tecnológica Y La Promoción De Empresas De Bienes Y Servicios,30677980032,6,2023,35485100.00
+731,POTENCIAR Satelital,Empresa/Institución,Fundación De La Facultad De Ingeniería Para La Transferencia Tecnológica Y La Promoción De Empresas De Bienes Y Servicios,30677980032,6,2023,35970000.00
+732,POTENCIAR Satelital,Empresa/Institución,Delta3 S.R.L.,30714264350,2,2023,34825000.00
+733,POTENCIAR Satelital,Empresa/Institución,Universidad Tecnológica Nacional,30546671166,6,2023,6000000.00
+734,POTENCIAR Satelital,Empresa/Institución,Lia Aerospace S.A.,30716802759,2,2023,35992000.00
+735,POTENCIAR Satelital,Empresa/Institución,Sur Emprendimientos Tecnológicos S.R.L.,30709855499,2,2023,35824625.00
+736,POTENCIAR Satelital,Empresa/Institución,Servicio Satelital S.A.,30658891037,2,2023,13976000.00
+737,POTENCIAR Satelital,Empresa/Institución,Ispectrum S.R.L.,30717292304,2,2023,35616000.00
+738,POTENCIAR Satelital,Empresa/Institución,Cabl & Asociados S.R.L.,30711011478,82,2023,35919200.00
+739,POTENCIAR Satelital,Empresa/Institución,Ascentio Technologies S.A.,30710742584,14,2023,21536735.00
+740,SOLUCIONA,Empresa,100 Bares Producciones Sa,30709013293,2,2021,15000000.00
+741,SOLUCIONA,Empresa,Advanced Biotechnology Company Sociedad Anonima,30714028665,6,2021,14970000.00
+742,SOLUCIONA,Empresa,Agidea S.R.L.,30709765805,6,2020,14960937.68
+743,SOLUCIONA,Empresa,Agro Allium Sa,30711728496,70,2021,3358498.00
+744,SOLUCIONA,Empresa,Agroindustrias Regionales S.A.,30709731390,82,2021,8932600.00
+745,SOLUCIONA,Empresa,Alberto Malito & Cia Srl,30707258558,6,2021,4709968.73
+746,SOLUCIONA,Empresa,Allanmar International Company S.R.L.,30707839127,82,2021,11412255.00
+747,SOLUCIONA,Empresa,Altel S.R.L.,30710917759,14,2021,6989163.00
+748,SOLUCIONA,Empresa,Amro S.R.L.,30708774819,82,2021,4109280.00
+749,SOLUCIONA,Empresa,Angiolab Sa,30705739729,6,2021,6057200.00
+750,SOLUCIONA,Empresa,Arcangel Maggio Sociedad Anonima,30500802568,2,2021,14800000.00
+751,SOLUCIONA,Empresa,As.A.Nte Servicios De Información S.A.,30710027710,2,2020,2865145.00
+752,SOLUCIONA,Empresa,Ascanelli Sa,30707932402,14,2021,14415000.00
+753,SOLUCIONA,Empresa,Asociación Civil Para El Desarrollo Y La Innovación Competitiva Agencia Rafaela,30709558850,82,2021,14475651.00
+754,SOLUCIONA,Empresa,Aumed S.A.S.,30715701339,14,2020,9921040.00
+755,SOLUCIONA,Empresa,Aynou S.A.,30711764158,2,2021,14999581.00
+756,SOLUCIONA,Empresa,Azur Soil S.A.,30714503304,6,2021,15000000.00
+757,SOLUCIONA,Empresa,B Y B Herramientas Srl,33714863199,82,2021,10080000.00
+758,SOLUCIONA,Empresa,Beneficial Germs S.A.,30711964149,6,2020,14947500.00
+759,SOLUCIONA,Empresa,Biocodices S.A.,30714629901,2,2020,14361000.00
+760,SOLUCIONA,Empresa,Biogénesis Bagó,30653399819,6,2021,14815944.00
+761,SOLUCIONA,Empresa,Bioinnovo S.A.,30714645427,6,2020,10455000.00
+762,SOLUCIONA,Empresa,Biomakers S.A.,30707977686,2,2020,14983508.28
+763,SOLUCIONA,Empresa,Biosidus S.A.,30598117094,2,2021,12049192.29
+764,SOLUCIONA,Empresa,Biovita Sudamericana S.A.,30714824941,6,2020,13793700.00
+765,SOLUCIONA,Empresa,Block S.R.L.,30715458353,54,2021,2768000.00
+766,SOLUCIONA,Empresa,Cámara De Instituciones De Diagnóstico Médico (Cadime),30609357718,2,2020,8239992.00
+767,SOLUCIONA,Empresa,Capital Intelectual S.A.,30691027437,2,2020,14988000.00
+768,SOLUCIONA,Empresa,Carrocerias Navarro Hnos S.A.,30556861699,6,2021,10352027.00
+769,SOLUCIONA,Empresa,Cdr Productora Audiovisual S.A.,30716302039,2,2021,14938110.19
+770,SOLUCIONA,Empresa,Cigora S.A.,30715877038,6,2021,1132880.00
+771,SOLUCIONA,Empresa,Col S.A.,30708792469,50,2021,9023037.00
+772,SOLUCIONA,Empresa,Condor Group Srl,30698244360,82,2021,13681644.00
+773,SOLUCIONA,Empresa,Connecting Logistica Urbana S.A.,33715986359,2,2020,14142846.15
+774,SOLUCIONA,Empresa,Cooperativa Batan De Obras Y Servicios Publicos Limitada,30676790698,6,2020,8013908.80
+775,SOLUCIONA,Empresa,Cooperativa De Trabajo Cultural Kultrum Lda,30715407546,6,2020,11222738.00
+776,SOLUCIONA,Empresa,Cooperativa De Trabajo Ingeniar Limitada,30714902373,14,2021,1959740.00
+777,SOLUCIONA,Empresa,Corporación Vitivinicola Argentina,30709026484,50,2021,13970000.00
+778,SOLUCIONA,Empresa,Crux Marine S.A.S.,33716479019,2,2020,14981563.99
+779,SOLUCIONA,Empresa,Cryptolab S.A.S.,30716135191,14,2021,7981730.00
+780,SOLUCIONA,Empresa,Cubic Post S.R.L.,30716589087,2,2021,14990000.00
+781,SOLUCIONA,Empresa,Cumbresoft Sas,30715901192,50,2021,7139075.00
+782,SOLUCIONA,Empresa,Damez Electronica Profesional S.R.L.,30624670635,2,2020,10250675.00
+783,SOLUCIONA,Empresa,Deitres S.A.,30711090394,6,2020,14764000.00
+784,SOLUCIONA,Empresa,Delta Este S.A.,30708227249,58,2021,11224753.42
+785,SOLUCIONA,Empresa,Descar Argentina S R L,30709906239,14,2021,12205000.00
+786,SOLUCIONA,Empresa,Desitec S.A.,30715538225,2,2020,6425900.00
+787,SOLUCIONA,Empresa,Diagramma S.A,30636616318,82,2021,10652020.00
+788,SOLUCIONA,Empresa,Discar S.A,33622362169,14,2021,6253099.00
+789,SOLUCIONA,Empresa,Edge S.A.,30715229915,14,2021,10334652.00
+790,SOLUCIONA,Empresa,Editorial Acción Sa,30711570000,2,2021,12865250.32
+791,SOLUCIONA,Empresa,Editorial Orsai S.R.L.,30713339802,2,2020,13010600.00
+792,SOLUCIONA,Empresa,Enef Solutions S.A.S.,30716483572,2,2021,1187455.00
+793,SOLUCIONA,Empresa,Enlace Molecular S.R.L.,30716420120,6,2021,1636690.00
+794,SOLUCIONA,Empresa,Escorial S.A.I.C.,30503255533,6,2020,11903375.00
+795,SOLUCIONA,Empresa,Euroideas S.R.L.,30708830964,6,2020,2330000.00
+796,SOLUCIONA,Empresa,Fadicad S.A.,30680971478,14,2020,14347050.00
+797,SOLUCIONA,Empresa,Feas Electronica S.A.,30707702199,14,2020,4853200.00
+798,SOLUCIONA,Empresa,Finca Las Rosas Srl,30716372436,70,2021,2057158.00
+799,SOLUCIONA,Empresa,Flexbit S.R.L.,30715865552,2,2020,1194020.00
+800,SOLUCIONA,Empresa,Fundacion Argentina De Nanotecnologia (F.A.N.),33709329249,6,2020,6885417.40
+801,SOLUCIONA,Empresa,Fundacion De Investigación Y Desarrollo Agropecuario,30707744037,2,2020,5403408.22
+802,SOLUCIONA,Empresa,Fundación Observatorio Pyme,30709855529,2,2021,2941520.00
+803,SOLUCIONA,Empresa,Fundación Red Millenium,30708240490,90,2020,5647769.00
+804,SOLUCIONA,Empresa,Fundación Turismo & Tecnología,30708461497,2,2020,1415600.00
+805,SOLUCIONA,Empresa,Geminis Farmaceutica S A,30657674296,6,2021,11461380.00
+806,SOLUCIONA,Empresa,Genofeed S.A.,30716256576,54,2020,13582800.00
+807,SOLUCIONA,Empresa,Ghm Satelital Sas,30716976366,70,2021,14781551.64
+808,SOLUCIONA,Empresa,Gisens Biotech S.A.,30716790092,2,2020,3527000.00
+809,SOLUCIONA,Empresa,Global Computer Reality Training Technology S.A.S.,30716297175,2,2020,6254000.00
+810,SOLUCIONA,Empresa,Gpe Sistemas Sas,30716086433,6,2021,6059365.00
+811,SOLUCIONA,Empresa,Grupo Eventos Tv S.A.,30710450818,82,2021,14990000.00
+812,SOLUCIONA,Empresa,Grupo Nucleo S.A.,30709332445,6,2020,14604000.00
+813,SOLUCIONA,Empresa,Hitec S.R.L.,33614972659,2,2020,4967077.50
+814,SOLUCIONA,Empresa,Hma4 S.A.,30710323484,6,2021,4258110.00
+815,SOLUCIONA,Empresa,Indie Films S.A.S.,30715944320,14,2020,8589891.53
+816,SOLUCIONA,Empresa,Indrasa Biotecnologia S.A.,33714529809,14,2020,14800050.00
+817,SOLUCIONA,Empresa,Ingeniería Metabólica S.A.,30714144673,82,2021,14999712.00
+818,SOLUCIONA,Empresa,Inmunova S.A.,30709896527,6,2020,15000000.00
+819,SOLUCIONA,Empresa,Instituto Andino Patagónico De Tecnologías Geológicas Y Geoambientales (Ipatec),30715328433,62,2020,14164050.00
+820,SOLUCIONA,Empresa,Instituto Biológico Argentino S.A.I.C.,30501145315,6,2020,14992627.00
+821,SOLUCIONA,Empresa,Integrales Ingeniería Y Servicios Sa,30711823758,82,2021,14824276.41
+822,SOLUCIONA,Empresa,Inventu Train S.R.L.,30716548798,82,2021,3612271.00
+823,SOLUCIONA,Empresa,Ivema Desarrollos,30711171890,6,2020,5161900.00
+824,SOLUCIONA,Empresa,Jalscomers Sas,33716939729,50,2021,4344760.80
+825,SOLUCIONA,Empresa,José M. Alladio E Hijos S.A.,30502680478,14,2021,13540000.00
+826,SOLUCIONA,Empresa,Kovi S.R.L,30710887426,6,2021,15000000.00
+827,SOLUCIONA,Empresa,Kubey Machine Sas,30715948660,2,2021,8331995.00
+828,SOLUCIONA,Empresa,La Otra Mirada Asociación Civil Sin Fines De Lucro,30714875163,26,2020,13542500.00
+829,SOLUCIONA,Empresa,La Riojana Cooperativa Vitivinifruticola De La Rioja Limitada,30632951716,46,2020,13300000.00
+830,SOLUCIONA,Empresa,La.Te. Andes Sa,30714779334,66,2021,1220000.00
+831,SOLUCIONA,Empresa,Laboratorios Richmond Sacif,30501152826,6,2021,12768000.00
+832,SOLUCIONA,Empresa,Lácteos La Ramada S.A,30711970777,82,2021,13223500.00
+833,SOLUCIONA,Empresa,Lactocrecer S.A.,30708307188,82,2021,15000000.00
+834,SOLUCIONA,Empresa,Lafedar S.A.,30681071381,30,2020,15000000.00
+835,SOLUCIONA,Empresa,Lavadero Banfield S.A.,30537631127,6,2021,11421598.00
+836,SOLUCIONA,Empresa,Los Olivares De Venado Tuerto S.A.,30707145559,82,2021,10427200.00
+837,SOLUCIONA,Empresa,Lubricacion Saic Sa,30519196928,6,2021,14997872.20
+838,SOLUCIONA,Empresa,Lulo S.A.,30716086581,2,2021,6794000.00
+839,SOLUCIONA,Empresa,Luvre Srl,30715454854,2,2021,7733409.04
+840,SOLUCIONA,Empresa,Mabb S.A.,30709999547,6,2020,3515000.00
+841,SOLUCIONA,Empresa,Mabxience S.A.U.,30710726562,6,2020,14998960.00
+842,SOLUCIONA,Empresa,Machaco Films S.R.L.,30714554154,2,2021,4659397.25
+843,SOLUCIONA,Empresa,Malditomaus Srl,30712391754,2,2021,5742335.00
+844,SOLUCIONA,Empresa,Mindhub S.A.S.,30715763709,2,2020,7156080.00
+845,SOLUCIONA,Empresa,Mirich Seguridad Electrónica S.A.,30715471767,30,2021,7440846.00
+846,SOLUCIONA,Empresa,Mmj Srl,30708590602,6,2021,14996480.00
+847,SOLUCIONA,Empresa,Mobilenik S.A.,30707488197,2,2020,2629000.00
+848,SOLUCIONA,Empresa,Molino Trigotuc Sa,30708715472,14,2021,14951500.00
+849,SOLUCIONA,Empresa,Moq Sa,30715821849,2,2021,4096000.00
+850,SOLUCIONA,Empresa,Nialtec Sa,33685836829,6,2021,14262875.96
+851,SOLUCIONA,Empresa,Nrs S.A.,30711647011,6,2020,13845350.00
+852,SOLUCIONA,Empresa,Oliver S.A.S,30715859579,14,2021,5582922.00
+853,SOLUCIONA,Empresa,Optica Elena S.R.L.,30695639550,82,2020,11513000.00
+854,SOLUCIONA,Empresa,Pragmática S.R.L.,30710410867,58,2020,3653937.67
+855,SOLUCIONA,Empresa,Probyp Sa,30708620579,30,2021,11552002.00
+856,SOLUCIONA,Empresa,Productos Bio-Lógicos S.A.,30710675100,6,2020,14999104.00
+857,SOLUCIONA,Empresa,Prominente S A,33620499779,14,2021,8791500.00
+858,SOLUCIONA,Empresa,Proyeccion Electroluz S.R.L.,30601271903,82,2021,14992850.00
+859,SOLUCIONA,Empresa,Pulpo S.A.,30713130504,94,2020,11977140.00
+860,SOLUCIONA,Empresa,Qmax S.R.L.,33708248849,2,2020,12836800.00
+861,SOLUCIONA,Empresa,Qualab S.A.S.,30716395002,50,2020,14831500.00
+862,SOLUCIONA,Empresa,Quimica Abiquim Sas,30716100699,6,2021,14999683.39
+863,SOLUCIONA,Empresa,Reciclar S.A.,30677849947,6,2021,15000000.00
+864,SOLUCIONA,Empresa,Rubikia,30716616378,82,2021,7217000.00
+865,SOLUCIONA,Empresa,S.A.B.E.R.R.Sistema De Aceleracion Biotecnologico Empresarial Para Rosario Y Su Region S.R.L,30711147531,82,2021,14997670.00
+866,SOLUCIONA,Empresa,Servicio Satelital Sa,30658891037,2,2021,13941610.00
+867,SOLUCIONA,Empresa,Sohipren Sa,30620810521,14,2021,8973480.00
+868,SOLUCIONA,Empresa,Solamb S.R.L.,30710084358,82,2021,9983078.88
+869,SOLUCIONA,Empresa,Sqalmon Srl,33714630909,2,2021,2272564.53
+870,SOLUCIONA,Empresa,Sti Soluciones Tecnologicas Industriales S.A.S.,30715707361,14,2020,14991500.00
+871,SOLUCIONA,Empresa,Sur Emprendimientos Tecnológicos S.R.L.,30709855499,2,2020,10645552.00
+872,SOLUCIONA,Empresa,Sylice S.A.S.,30716587033,90,2020,2132317.49
+873,SOLUCIONA,Empresa,Tec Net S.R.L.,30708125101,58,2020,2446476.58
+874,SOLUCIONA,Empresa,Técnicas Avanzadas De Ingeniería S.A.,30699922125,82,2021,14999999.69
+875,SOLUCIONA,Empresa,Tecnología Argentina En Cintas S.A.,30606550177,6,2020,14890263.50
+876,SOLUCIONA,Empresa,Tecnovax S.A,30708430001,6,2021,14981525.00
+877,SOLUCIONA,Empresa,Teknix Arg Srl,30648570518,14,2021,6227000.00
+878,SOLUCIONA,Empresa,Terragene Sa,30709585939,82,2021,13320400.00
+879,SOLUCIONA,Empresa,Tesla Medical Devices S.A.,30714158763,6,2021,7855000.00
+880,SOLUCIONA,Empresa,The Foley Bros Sas,30716374927,2,2021,7303082.53
+881,SOLUCIONA,Empresa,Tierras Del Tulum Srl,30710608233,70,2021,3359953.00
+882,SOLUCIONA,Empresa,Trufas Del Nuevo Mundo S.A.,30711667136,2,2021,9695000.00
+883,SOLUCIONA,Empresa,Tsa S.R.L,30715030094,14,2021,7644268.68
+884,SOLUCIONA,Empresa,Uberall Corporation S.A.,33711421799,2,2021,1463500.00
+885,SOLUCIONA,Empresa,Unidigital S.A.,30712116281,2,2021,13731730.36
+886,SOLUCIONA,Empresa,Union Agricola De Avellaneda Coop Ltda,30501912405,82,2021,14894043.00
+887,SOLUCIONA,Empresa,Unión De Comerciantes E Industriales Del Departamento San Lorenzo,30578035849,82,2021,5471000.00
+888,SOLUCIONA,Empresa,Universidad Católica De Cordoba,30539679100,14,2020,14997186.36
+889,SOLUCIONA,Empresa,Universidad Nacional Arturo Jauretche,30711340161,6,2020,14955288.00
+890,SOLUCIONA,Empresa,Universidad Nacional De Entre Rios,30562252157,30,2020,14711767.55
+891,SOLUCIONA,Empresa,Universidad Nacional De Jose C Paz,30711655480,6,2020,13970000.00
+892,SOLUCIONA,Empresa,Universidad Nacional De Moreno,30711426287,6,2021,4990154.60
+893,SOLUCIONA,Empresa,Universidad Nacional De Quilmes,30642137251,6,2020,15000000.00
+894,SOLUCIONA,Empresa,Universidad Nacional De San Martín,30662473916,6,2021,14999085.00
+895,SOLUCIONA,Empresa,Universidad Nacional Del Chaco Austral,30710588968,22,2021,7152971.65
+896,SOLUCIONA,Empresa,Universidad Nacional Del Litoral,30546670550,82,2020,3405328.00
+897,SOLUCIONA,Empresa,Universidad Tecnologica Nacional,30546671166,14,2020,14999556.06
+898,SOLUCIONA,Empresa,Vainn S.R.L.,30716899698,14,2021,8655795.60
+899,SOLUCIONA,Empresa,Vitron Biotecnología Vegetal Argentina Srl,30716425637,6,2021,13465160.00
+900,SOLUCIONA,Empresa,Vitruvio Labs S.A.S.,30716801981,2,2020,1457500.00
+901,SOLUCIONA,Empresa,Vivero Del Oeste Riojano Sapem,30711253617,46,2021,14251944.92
+902,SOLUCIONA,Empresa,Volpor S.A,30708222085,6,2021,14750015.00
+903,SOLUCIONA,Empresa,Wakke Sa,30710353936,6,2021,5422482.00
+904,SOLUCIONA,Empresa,Wk1 S.A.,30712551719,54,2021,14994320.00
+905,SOLUCIONA,Empresa,Xaviasolutions S.A.,30715954474,2,2020,3078000.00
+906,SOLUCIONA,Empresa,Zelltek S.A.,33674622789,82,2021,14986700.00
+907,SOLUCIONA,Empresa,INFINITY PHARMA S.A,30716866927,2,2020,14250000.00
+908,SOLUCIONA,Empresa,SUPERACCION S.R.L.,30715294792,6,2020,14975694.00
+909,SOLUCIONA II,Empresa,Discar S. A.,33622362169,14,2022,19893830.00
+910,SOLUCIONA II,Empresa,Selectivity S. A. S.,30716350157,14,2022,25000000.00
+911,SOLUCIONA II,Empresa,Ivema Desarrollos S. R. L.,30711171890,6,2022,12181500.00
+912,SOLUCIONA II,Empresa,Estrategias y Resultados S. A.,30717197204,6,2022,8000000.00
+913,SOLUCIONA II,Empresa,Ubiar S. R. L.,30714240540,82,2022,10000000.00
+914,SOLUCIONA II,Empresa,Aumed S. A. S.,30715701339,14,2022,9958400.00
+915,SOLUCIONA II,Empresa,Itech3d,30716350998,14,2022,11213850.84
+916,SOLUCIONA II,Empresa,devp sociedad cap. i seccion iv ley 19.550,30716424681,6,2022,10000000.00
+917,SOLUCIONA II,Empresa,MZP Tecnología S. A. U.,30715264249,62,2022,18899000.00
+918,SOLUCIONA II,Empresa,Conuar S. A. (Combustibles Nucleares Argentinos),30589673804,6,2022,24841750.00
+919,SOLUCIONA II,Empresa,Givemove S. A. S.,30716508575,30,2022,24991078.80
+920,SOLUCIONA II,Empresa,Editorial Orsai S. R. L.,30713339802,2,2022,9845933.76
+921,SOLUCIONA II,Empresa,Datatech S. A.,30601951394,2,2022,5105500.00
+922,SOLUCIONA II,Empresa,Doble TT Argentina S. A.,30716617366,14,2022,24450606.80
+923,SOLUCIONA II,Empresa,Octamer S. R. L.,30717003051,6,2022,15963777.98
+924,SOLUCIONA II,Empresa,Ceres Demeter S. R. L.,30711174628,14,2022,24920000.00
+925,SOLUCIONA II,Empresa,NRS S. A.,30711647011,6,2022,24950000.00
+926,SOLUCIONA II,Empresa,Auster Ingenieria S. R. L.,30715242008,94,2022,20052827.78
+927,SOLUCIONA II,Empresa,Quies Mentis S. A. S.,30716535025,2,2022,8777600.00
+928,SOLUCIONA II,Empresa,Ever Wear S. A.,30708700270,14,2022,8805014.00
+929,SOLUCIONA II,Empresa,Mariana S. A.,30691852071,46,2022,10000000.00
+930,SOLUCIONA II,Empresa,BODY HEALTH S.A.,30709500887,6,2022,15225255.41
+931,SOLUCIONA II,Empresa,EL DORADO S.R.L,30709420751,94,2022,20802200.00
+932,SOLUCIONA II,Empresa,RAYOS X DINAN S A,30523061700,2,2022,25000000.00
+933,SOLUCIONA II,Empresa,AVE ESTUDIOS S R L,33707058779,2,2022,7982275.00
+934,SOLUCIONA II,Empresa,AS GESTION DE LA INFORMACION Y METODOS SAS,30716713756,6,2022,10000000.00
+935,SOLUCIONA II,Empresa,SIMA SOFTWARE S.A.,30715026976,82,2022,10000000.00
+936,SOLUCIONA II,Empresa,EMPRINET 4.0 S.A.,30717343472,14,2022,5682150.00
+937,SOLUCIONA II,Empresa,G I S A S.A.,30708547472,6,2022,9882000.00
+938,SOLUCIONA II,Empresa,INELPA TRANSFORMADORES S.A. (ex PALMIERI RICARDO MARIO Y PALMIERI ROBERTO OSVALDO),30626759013,82,2022,20526025.00
+939,SOLUCIONA II,Empresa,DESITEC S.A.,30715538225,2,2022,24999900.00
+940,SOLUCIONA II,Empresa,UNIVERSIDAD NACIONAL DE RAFAELA,30714902268,82,2022,9991480.00
+941,SOLUCIONA II,Empresa,"COOPERATIVA DE PROVISION DE SERVICIOS AGRICOLAS ""CRIADERO SANTA ROSA"" LIMITADA",30708879238,82,2022,24911958.00
+942,SOLUCIONA II,Empresa,AVIEM AERONAUTICA SRL,30715218662,6,2022,17999638.00
+943,SOLUCIONA II,Empresa,LABORATORIO INDUSTRIAL FARMACEUTICO SOCIEDAD DEL ESTADO,30707618716,82,2022,24700000.00
+944,SOLUCIONA II,Empresa,YERUVA SA,30678353643,82,2022,25000000.00
+945,SOLUCIONA II,Empresa,BIOINNOVO SA,30714645427,6,2022,11366153.85
+946,SOLUCIONA II,Empresa,CROSETTO INGENIERIA S.A.,30710836171,82,2022,24048826.00
+947,SOLUCIONA II,Empresa,BLACK ID ARGENTINA SA,30717207692,6,2022,9908263.60
+948,SOLUCIONA II,Empresa,MALABAR PRODUCCIONES S.R.L.,30711935254,2,2022,9983486.00
+949,SOLUCIONA II,Empresa,DESCAR ARGENTINA S R L,30709906239,14,2022,14866150.00
+950,SOLUCIONA II,Empresa,SLB INGENIERIA S.R.L.,30714489638,82,2022,25000000.00
+951,SOLUCIONA II,Empresa,DARWIN CERVEZA ARTESANAL S.R.L.,30715453610,2,2022,13704838.70
+952,SOLUCIONA II,Empresa,UGUTEC S.R.L.,30716658704,82,2022,23161536.69
+953,SOLUCIONA II,Empresa,DI CHENA Y ASOCIADOS S R L,30663103942,2,2022,10000000.00
+954,SOLUCIONA II,Empresa,ZEV Technology SAS,30715781391,6,2022,20655374.87
+955,SOLUCIONA II,Empresa,PS CINE S.A.S.,30716895935,2,2022,10000000.00
+956,SOLUCIONA II,Empresa,LIGNIS S.A.,30715546287,90,2022,24620000.00
+957,SOLUCIONA II,Empresa,QUANTUM TECNOLOGIA SA,30708676973,2,2022,24670778.00
+958,SOLUCIONA II,Empresa,GIE S.A,30690011499,6,2022,17469909.45
+959,SOLUCIONA II,Empresa,LABORATORIO ELEA PHOENIX S.A.,30544640212,6,2022,25000000.00
+960,SOLUCIONA II,Empresa,INMUNOVA S.A.,30709896527,6,2022,25000000.00
+961,SOLUCIONA II,Empresa,WOXA SRL,33717110949,6,2022,24999550.00
+962,SOLUCIONA II,Empresa,Laboratorio Azul Diagnostco SA,30581372759,6,2022,24275906.23
+963,SOLUCIONA II,Empresa,INVENTU S.R.L.,30714839833,82,2022,23060100.00
+964,SOLUCIONA II,Empresa,BENEFICIAL GERMS S.A,30711964149,6,2022,25000000.00
+965,SOLUCIONA II,Empresa,DIVISION INDUSTRIAL SA,30712396535,50,2022,14651746.04
+966,SOLUCIONA II,Empresa,NOVOSENS S.A.S.,30717606414,14,2022,19959617.75
+967,SOLUCIONA II,Empresa,MOTHUS TECHNOLOGY S.A.S.,33717603449,14,2022,24996982.00
+968,SOLUCIONA II,Empresa,MIRAI 3D S.R.L.,30715609289,6,2022,20724736.84
+969,SOLUCIONA II,Empresa,HARDFACING SRL,30712497285,82,2022,25000000.00
+970,SOLUCIONA II,Empresa,DELTA3 SRL,30714264350,2,2022,25000000.00
+971,SOLUCIONA II,Empresa,UNION VITIVINICOLA ARGENTINA ASOCIACION,30648951589,50,2022,9994000.00
+972,SOLUCIONA VERDE,Empresa,Runa Sustentable SAS,30716518716,2,2021,10620875.82
+973,SOLUCIONA VERDE,Empresa,Powermeter SAS,33715973109,2,2021,14008917.25
+974,SOLUCIONA VERDE,Empresa,Caballero & Asociados SRL,30708588837,2,2021,18643803.32
+975,SOLUCIONA VERDE,Empresa,Che3D SRL,30715149164,2,2021,11257802.52
+976,SOLUCIONA VERDE,Empresa,Rmnl 83 SRL,30716964090,6,2021,15296174.95
+977,SOLUCIONA VERDE,Empresa,Amiplast SA,33709596409,6,2021,19391575.69
+978,SOLUCIONA VERDE,Empresa,Miota Aerospace SAS,30717147983,6,2021,12058990.00
+979,SOLUCIONA VERDE,Empresa,Cpc SA,30708413530,6,2021,19998834.00
+980,SOLUCIONA VERDE,Empresa,Agro Advance Technology SA,30709997749,6,2021,19190459.36
+981,SOLUCIONA VERDE,Empresa,Procens SAS,30716822806,6,2021,20000000.00
+982,SOLUCIONA VERDE,Empresa,Bga Energia Sustentable SRL,30714764086,6,2021,16591615.61
+983,SOLUCIONA VERDE,Empresa,Julasoft SA,30711979324,6,2021,18964000.00
+984,SOLUCIONA VERDE,Empresa,Riegotec SRL,30716972042,30,2021,10118058.58
+985,SOLUCIONA VERDE,Empresa,Velos SRL,30717190242,30,2021,19329014.70
+986,SOLUCIONA VERDE,Empresa,Reisender Electronic Technology SA,30712357998,30,2021,19586490.00
+987,SOLUCIONA VERDE,Empresa,Teembu SAS,30716065320,30,2021,10003031.00
+988,SOLUCIONA VERDE,Empresa,Bodegas y Viñedos Nicolas Catena SA,30527194446,50,2021,19959407.95
+989,SOLUCIONA VERDE,Empresa,Consorcio de Riego III Etapa de el Chañar,30707825797,58,2021,19589748.75
+990,SOLUCIONA VERDE,Empresa,SCUDELATI & ASOCIADOS S.A,30711503028,6,2021,17735213.50
+991,POTENCIAR Videojuego,Empresa,ACONCAGUA SOFTWARE FACTORY S.A.,30709404039,50,2022,3604000.00
+992,POTENCIAR Videojuego,Empresa,SCUBALIGHT STUDIOS S.A.S.,30717613097,50,2022,5724775.00
+993,POTENCIAR Videojuego,Empresa,WHITEBOARD GAMES ARGENTINA S.A.,30717319571,6,2022,5980799.00
+994,POTENCIAR Videojuego,Empresa,FANNY PACK STUDIOS S.A.,30717483630,2,2022,4470796.00
+995,POTENCIAR Videojuego,Empresa,DIGI LEARNNIALS S.R.L.,30716877155,2,2022,6165800.00
+996,POTENCIAR Videojuego,Empresa,LOTHAL BLOCKCHAIN S.A.,30717204553,6,2022,5853919.00
+997,POTENCIAR Videojuego,Empresa,DIGITAL GAMES & TOYS,33716142669,6,2022,5997920.00
+998,POTENCIAR Videojuego,Empresa,ZAMI ONLINE S.A.S.,30717668053,14,2022,5990500.00
+999,POTENCIAR Videojuego,Empresa,PURPLE TREE S.R.L.,30712545816,2,2022,6489800.00
+1000,POTENCIAR Videojuego,Empresa,NUEVA GESTIÓN FUNDACIÓN PARA EL DESARROLLO SOCIAL,30687349810,38,2022,5999900.00
+1001,POTENCIAR Videojuego,Empresa,SISMO SOCIEDAD ANÓNIMA,30710009828,82,2022,5960000.00
+1002,POTENCIAR Videojuego,Empresa,THROGS S.R.L,33715639209,14,2022,6000000.00
+1003,POTENCIAR Videojuego,Empresa,IMAGE CAMPUS S.A,30707420665,2,2022,5609538.00
+1004,POTENCIAR Videojuego,Empresa,COOPERATIVA DE TRABAJO GENEOS LIMITADA,30714952575,6,2022,5998997.00
+1005,POTENCIAR Videojuego,Empresa,GAME EVER S.A,33715326189,2,2022,6500000.00
+1006,POTENCIAR Videojuego,Empresa,KILLABUNNIES S.R.L.,30714449571,82,2022,5978180.00
+1007,POTENCIAR Videojuego,Empresa,BANTAM STUDIO S.A.S.,33717664219,2,2022,1713285.00
+1008,POTENCIAR Videojuego,Empresa,ACTIVICA S.A,33708845839,2,2022,6397000.00
+1009,POTENCIAR Videojuego,Empresa,TECHNE & MEDEOS S.R.L.,30716081652,6,2022,2693500.00
+1010,POTENCIAR Videojuego,Empresa,CPM GAMES S.R.L.,30712536205,2,2022,6470000.00
+1011,POTENCIAR Videojuego,Empresa,UNIVERSIDAD NACIONAL DE QUILMES,30642137251,6,2022,6500000.00
+1012,POTENCIAR Videojuego,Empresa,SEVEN LEAF CLOVER S.R.L.,30717827119,2,2023,10498000.00
+1013,POTENCIAR Videojuego,Empresa,UNCANNY S.A.,30716983419,6,2023,9960000.00
+1014,POTENCIAR Videojuego,Empresa,WHITEBOARD GAMES ARGENTINA S.A.,30717319571,6,2023,9800000.00
+1015,POTENCIAR Videojuego,Empresa,PLAYONE LATAM S.R.L.,30717568423,10,2023,9812200.00
+1016,POTENCIAR Videojuego,Empresa,THROGS S.R.L.,33715639209,14,2023,10330000.00
+1017,POTENCIAR Videojuego,Empresa,COOPERATIVA DE TRABAJO FUNDAV LIMITADA,30717833186,2,2023,9946000.00
+1018,POTENCIAR Videojuego,Empresa,DIGITAL GAMES & TOYS S.A.,33716142669,6,2023,9961632.00
+1019,POTENCIAR Videojuego,Empresa,DEPORTES ELECTRÓNICOS NORTE CLUB,30716631679,22,2023,9909400.00
+1020,POTENCIAR Videojuego,Empresa,DIGI LEARNNIALS S.R.L.,30716877155,2,2023,9970000.00
+1021,POTENCIAR Videojuego,Empresa,SCUBALIGHT STUDIOS S.A.S.,30717613097,50,2023,9992000.00
+1022,POTENCIAR Videojuego,Empresa,UNIVERSIDAD NACIONAL DE QUILMES,30642137251,6,2023,8132000.00
+1023,POTENCIAR Videojuego,Empresa,REALITEAM S.A.S.,30717344622,14,2023,10500000.00
+1024,POTENCIAR Videojuego,Empresa,WAYWARD SON S.A.,30717229564,2,2023,9997900.00
+1025,POTENCIAR Videojuego,Empresa,PUERTO GLOBAL S.A.S.,30716371944,94,2023,10497480.00
+1026,POTENCIAR Videojuego,Empresa,KILLABUNNIES S.R.L.,30714449571,82,2023,9457639.00
+1027,POTENCIAR Videojuego,Empresa,BANTAM STUDIO S.A.S.,33717664219,2,2023,8658000.00
+1028,POTENCIAR Videojuego,Empresa,XOWEN STUDIO S.A.S.,30717991008,50,2023,9492000.00
+1029,POTENCIAR Videojuego,Empresa,INTERBRAIN S.A.S.,30716073137,50,2023,6617230.00
+1030,POTENCIAR Videojuego,Empresa,NUEVA GESTIÓN FUNDACIÓN PARA EL DESARROLLO SOCIAL,30687349810,38,2023,10000000.00
+1031,POTENCIAR Videojuego,Empresa,PURPLE TREE S.R.L.,30712545816,2,2023,8499999.00
+1032,POTENCIAR Videojuego,Empresa,COOPERATIVA NUESTRA AMÉRICA LIMITADA,30717598659,2,2023,10500000.00
+1033,POTENCIAR Videojuego,Empresa,IMAGE CAMPUS S.A.,30707420665,2,2023,9984000.00
+1034,POTENCIAR Videojuego,Empresa,UNIVERSIDAD NACIONAL DE RAFAELA,30714902268,82,2023,9540000.00
+1035,POTENCIAR Videojuego,Empresa,UNIVERSIDAD NACIONAL DE JOSÉ CLEMENTE PAZ,30711655480,6,2023,7952000.00
