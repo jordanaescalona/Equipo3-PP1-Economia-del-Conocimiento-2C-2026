@@ -1,0 +1,34 @@
+[
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Total del país",
+    "newColumnName": "poblacion_2022",
+    "description": "Renombra la columna Total del país a poblacion_2022"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "poblacion_2022",
+    "expression": "grel:value.replace(\".\", \"\").trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna poblacion_2022 usando la expresión grel:value.replace(\".\", \"\").trim()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "poblacion_2022",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna poblacion_2022 usando la expresión value.trim()"
+  }
+]
