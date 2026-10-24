@@ -1,0 +1,1 @@
+| **Evidencia** | `2026-10-23_Solicitud_KIT40_MinEconomia_censurado.pdf` (versión sin datos personales; el original completo está en Drive Sprint2 / 04_Documentacion / Solicitudes de datos) |
