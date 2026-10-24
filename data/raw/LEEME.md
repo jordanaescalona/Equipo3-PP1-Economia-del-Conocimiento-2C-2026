@@ -16,11 +16,13 @@
 | `puestos_depto_priv_por_clae2.csv` (**no está en GitHub**) | CEP XXI – mismo enlace | Pregunta 3 |
 | `ipc_api.csv` | INDEC – IPC nivel general nacional (base dic-2016 = 100), ene-2020 a dic-2023, vía API de Series de Tiempo de datos.gob.ar | Preguntas 2 y 3 (ajuste por inflación) |
 | `tipo_cambio_api.csv` | BCRA – tipo de cambio de referencia Com. A3500, dic-2025 a feb-2026, vía API de Series de Tiempo de datos.gob.ar | Pregunta 1 (salarios en dólares) |
+| `cpci_honorarios_recomendados_2026_09.csv` | Consejo Profesional de Ciencias Informáticas de Córdoba (CPCI) – Honorarios recomendados, actualización 09-2026 – https://cpcipc.org.ar/honorarios-recomendados/ (consulta 23/10/2026) | Validación de la pregunta 1 |
 
 **Archivo pesado:** `puestos_depto_priv_por_clae2.csv` pesa unos 95 MB, por lo que se guarda en Google Drive (carpeta Sprint_1 / 02_Datos) y no en GitHub. Para ejecutar el script, descargarlo y copiarlo en esta carpeta.
 
 **Nota:** `sysarmy_2026_1.csv` es la versión re-guardada por el equipo (separador `;`, codificación Windows-1252). El CSV original de Sysarmy usa `,`, UTF-8 y trae 9 filas vacías antes del encabezado. 
 **Nota:** en `ipc_api.csv` la columna `indice_tiempo` quedó como número de serie de Excel (43831 = 01/01/2020). La versión limpia (`data/processed/ipc_mensual.csv`) tiene la fecha correcta.
+**Nota:** la página del CPCI no ofrece un archivo para descargar (la tabla se carga desde un servicio externo), por eso `cpci_honorarios_recomendados_2026_09.csv` es una copia textual de la tabla publicada, sin modificar: montos como texto con `$`, punto de miles y coma decimal. Son honorarios recomendados por perfil, no salarios observados, y no distinguen Semi-Senior. La versión limpia está en `data/processed/cpci_honorarios_2026_09.csv`.
 
 ## Fuentes usadas sin archivo en esta carpeta
 

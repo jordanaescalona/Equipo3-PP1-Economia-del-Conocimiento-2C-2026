@@ -1,0 +1,308 @@
+[
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Agrupamiento",
+    "newColumnName": "agrupamiento",
+    "description": "Renombra la columna Agrupamiento a agrupamiento"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Perfil | Rol | Cargo",
+    "newColumnName": "perfil",
+    "description": "Renombra la columna Perfil | Rol | Cargo a perfil"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "$ Remuneración Mensual",
+    "newColumnName": "remuneracion_mensual",
+    "description": "Renombra la columna $ Remuneración Mensual a remuneracion_mensual"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "$ Hora a Demanda",
+    "newColumnName": "hora_demanda",
+    "description": "Renombra la columna $ Hora a Demanda a hora_demanda"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "Unid. Actualización",
+    "newColumnName": "unidad_actualizacion",
+    "description": "Renombra la columna Unid. Actualización a unidad_actualizacion"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "agrupamiento",
+    "expression": "value.replace(/[\\p{Zs}\\s]+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna agrupamiento usando la expresión value.replace(/[\\p{Zs}\\s]+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "perfil",
+    "expression": "value.replace(/[\\p{Zs}\\s]+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna perfil usando la expresión value.replace(/[\\p{Zs}\\s]+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "unidad_actualizacion",
+    "expression": "value.replace(/[\\p{Zs}\\s]+/,' ')",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna unidad_actualizacion usando la expresión value.replace(/[\\p{Zs}\\s]+/,' ')"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "remuneracion_mensual",
+    "expression": "grel:value.replace(\"$\",\"\").replace(\".\",\"\").replace(\",\",\".\").trim().toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna remuneracion_mensual usando la expresión grel:value.replace(\"$\",\"\").replace(\".\",\"\").replace(\",\",\".\").trim().toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "hora_demanda",
+    "expression": "grel:value.replace(\"$\",\"\").replace(\".\",\"\").replace(\",\",\".\").trim().toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna hora_demanda usando la expresión grel:value.replace(\"$\",\"\").replace(\".\",\"\").replace(\",\",\".\").trim().toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "remuneracion_mensual",
+    "expression": "grel:if(value == 0, null, value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna remuneracion_mensual usando la expresión grel:if(value == 0, null, value)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "perfil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Desarrollador Fronted"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Desarrollador Frontend"
+      }
+    ],
+    "description": "Editar celdas en masa en columna perfil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "perfil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Seguridad Informatica"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Seguridad Informática"
+      }
+    ],
+    "description": "Editar celdas en masa en columna perfil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "perfil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Soporte Tecnico | Help Desk – Contact Center"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Soporte Técnico | Help Desk – Contact Center"
+      }
+    ],
+    "description": "Editar celdas en masa en columna perfil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "perfil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Programador Moviles | Mobile Developer"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Programador Móviles | Mobile Developer"
+      }
+    ],
+    "description": "Editar celdas en masa en columna perfil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "perfil",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Líder Proyectos de Desarrollados de Software"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Líder Proyectos de Desarrollo de Software"
+      }
+    ],
+    "description": "Editar celdas en masa en columna perfil"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "agrupamiento",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "No Tecnologicos"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "No Tecnológicos"
+      }
+    ],
+    "description": "Editar celdas en masa en columna agrupamiento"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "perfil",
+    "expression": "grel:if(value.contains(\"Junior\"),\"Junior\",if(value.contains(\"Senior\"),\"Senior\",null))",
+    "onError": "set-to-blank",
+    "newColumnName": "seniority",
+    "columnInsertIndex": 2,
+    "description": "Crear la columna seniority en el índice 2 basada en la columna perfil usando la expresión grel:if(value.contains(\"Junior\"),\"Junior\",if(value.contains(\"Senior\"),\"Senior\",null))"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "agrupamiento",
+    "expression": "grel:if(or(value.contains(\"Datos\"),value.contains(\"IA\"),value.contains(\"BI\")),\"Datos e IA\",if(cells[\"agrupamiento\"].value == \"No Tecnológicos\",\"No IT\",\"Resto IT\"))",
+    "onError": "set-to-blank",
+    "newColumnName": "grupo_puesto",
+    "columnInsertIndex": 1,
+    "description": "Crear la columna grupo_puesto en el índice 1 basada en la columna agrupamiento usando la expresión grel:if(or(value.contains(\"Datos\"),value.contains(\"IA\"),value.contains(\"BI\")),\"Datos e IA\",if(cells[\"agrupamiento\"].value == \"No Tecnológicos\",\"No IT\",\"Resto IT\"))"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "unidad_actualizacion",
+    "expression": "grel:\"2026-09\"",
+    "onError": "set-to-blank",
+    "newColumnName": "fecha_actualizacion",
+    "columnInsertIndex": 7,
+    "description": "Crear la columna fecha_actualizacion en el índice 7 basada en la columna unidad_actualizacion usando la expresión grel:\"2026-09\""
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "agrupamiento",
+    "expression": "grel:\"CPCI Córdoba\"",
+    "onError": "set-to-blank",
+    "newColumnName": "fuente",
+    "columnInsertIndex": 1,
+    "description": "Crear la columna fuente en el índice 1 basada en la columna agrupamiento usando la expresión grel:\"CPCI Córdoba\""
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "grupo_puesto",
+    "expression": "grel:if(or(cells[\"perfil\"].value.contains(\"Datos\"),cells[\"perfil\"].value.contains(\"IA\"),cells[\"perfil\"].value.contains(\"BI\")),\"Datos e IA\",if(cells[\"agrupamiento\"].value == \"No Tecnológicos\",\"No IT\",\"Resto IT\"))",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna grupo_puesto usando la expresión grel:if(or(cells[\"perfil\"].value.contains(\"Datos\"),cells[\"perfil\"].value.contains(\"IA\"),cells[\"perfil\"].value.contains(\"BI\")),\"Datos e IA\",if(cells[\"agrupamiento\"].value == \"No Tecnológicos\",\"No IT\",\"Resto IT\"))"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "seniority",
+    "expression": "grel:if(isBlank(value),\"Sin especificar\",value)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Transforma el texto de las celdas en la columna seniority usando la expresión grel:if(isBlank(value),\"Sin especificar\",value)"
+  }
+]
