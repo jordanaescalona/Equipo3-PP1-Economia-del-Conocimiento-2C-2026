@@ -33,7 +33,7 @@ El análisis es descriptivo: cuenta, resume y compara. No busca explicar causas 
 | Grilla del convenio AGC (enero 2026) | [informaticos.ar](https://informaticos.ar/convenios/) | P1 (validación) |
 | Honorarios recomendados (09-2026) | [CPCI Córdoba](https://cpcipc.org.ar/honorarios-recomendados/) | P1 (validación) |
 
-El programa vigente KIT 4.0 no tiene datos abiertos: se pidieron por la Ley 27.275 (ver `solicitudes/`).
+El programa vigente KIT 4.0 no tiene datos abiertos: se pidieron por la Ley 27.275 (ver [`docs/solicitudes/`](docs/solicitudes/)).
 Detalle, enlaces de descarga y registros de cada archivo: [`data/raw/LEEME.md`](data/raw/LEEME.md).
 
 ---
@@ -53,7 +53,7 @@ El análisis es descriptivo y comparativo: muestra qué pasa en los datos, no su
 - **Python** (pandas, matplotlib): EDA inicial (Sprint 1) y EDA Sprint 2, en notebooks ejecutables en Google Colab
 - **OpenRefine**: limpieza de Sysarmy, programas y CPCI, con recetas JSON reproducibles – Sprint 2
 - **Pentaho Data Integration**: unión de los 9 programas y transformación del CEP XXI – Sprint 2
-- **Power BI**: modelo estrella con dim_provincia (Sprint 2) y dashboard final (Sprint 3)
+- **Power BI**: modelo estrella con dim_provincia (Sprint 2) y dashboard interactivo final de 11 páginas (Sprint 3)
 - Excel / CSV, Google Drive, Trello, GitHub y GitHub Desktop (ramas y pull requests), Google Meet y WhatsApp
 
 ---
@@ -61,7 +61,7 @@ El análisis es descriptivo y comparativo: muestra qué pasa en los datos, no su
 ## Proceso de análisis
 - **Sprint 1 (completado):** organización del equipo, ficha de conocimiento del dominio, preguntas de análisis, diccionario de datos y EDA inicial sobre los datos originales.
 - **Sprint 2 (completado):** limpieza y transformación (ETL) con OpenRefine y Pentaho según los problemas detectados en el EDA, integración por provincia (provincia_id), datasets complementarios, validación de salarios con tres fuentes, modelo base en Power BI, EDA Sprint 2 y reporte de insights.
-- **Sprint 3:** visualización en Power BI, data storytelling y presentación final.
+- **Sprint 3 (completado):** dashboard interactivo en Power BI (11 páginas), 5 insights consolidados, data storytelling, presentación y exposición final, informe técnico, manual de usuario, diccionario de datos final y retrospectiva.
 
 ### Cómo reproducir el EDA
 ```bash
@@ -76,7 +76,32 @@ Documento del EDA Sprint 2: [`reports/sprint2/PP1-S2-EDA-Sprint2.pdf`](reports/s
 
 ---
 
+## Entregables del Sprint 3
+| Entregable | Archivo |
+|---|---|
+| Dashboard interactivo de Power BI | [`reports/sprint3/PP1-EQ3-Entrega_final_dashboard_interactivo.pbix`](reports/sprint3/PP1-EQ3-Entrega_final_dashboard_interactivo.pbix) · [PDF](reports/sprint3/PP1-S3-EQ3-Entrega_final_dashboard_interactivo.pdf) |
+| Informe técnico | [`reports/sprint3/PP1-S3-Informe-Tecnico-Equipo3.pdf`](reports/sprint3/PP1-S3-Informe-Tecnico-Equipo3.pdf) |
+| EDA final | [`reports/sprint3/PP1-S3-EDA-Final.pdf`](reports/sprint3/PP1-S3-EDA-Final.pdf) |
+| Insights consolidados | [`reports/sprint3/PP1-S3-Insights-Consolidados.pdf`](reports/sprint3/PP1-S3-Insights-Consolidados.pdf) |
+| Presentación (Data Storytelling) | [`reports/sprint3/PP1-S3-Presentacion-Data-Storytelling.pdf`](reports/sprint3/PP1-S3-Presentacion-Data-Storytelling.pdf) |
+| Manual de usuario del dashboard | [`reports/sprint3/PP1-S3-Manual-de-Usuario-Tablero-Power-BI.pdf`](reports/sprint3/PP1-S3-Manual-de-Usuario-Tablero-Power-BI.pdf) |
+| Diccionario de datos final | [`docs/PP1-S3-DiccionarioDatos-Final.xlsx`](docs/PP1-S3-DiccionarioDatos-Final.xlsx) |
+| Documentación del ETL (Sprint 2) | [Bitácora ETL](docs/PP1-S2-Bitacora-ETL-Equipo3.csv) · [Check de limpieza](docs/PP1-S2-Check-Limpieza-Normalizacion.xlsx) · [Registro de errores](docs/PP1-S2-Registro-Errores-Herramienta.xlsx) |
+| Retrospectiva del Sprint 3 | [`reports/sprint3/PP1-S3-Retrospectiva-Equipo3.pdf`](reports/sprint3/PP1-S3-Retrospectiva-Equipo3.pdf) |
+| Video de la exposición | [Ver en Google Drive](PEGAR-AQUÍ-EL-ENLACE-DEL-VIDEO) |
+
+El dashboard tiene portada interactiva, navegación (Inicio, Anterior, Siguiente), filtros, botón Restablecer, un panel **Datasets** con las fuentes de cada página y un glosario. El detalle de cada página está en el manual de usuario.
+
+---
+
 ## Resultados principales
+*Resultados finales (Sprint 3) – 5 insights:*
+- **P1 · Efecto composición:** en el total, Datos e IA cobra 8,8 % menos que el resto de IT ($3,10 M frente a $3,40 M), pero a igual seniority cobra igual o más (+20,9 % Junior, +15,8 % Semi-Senior). La diferencia se explica porque tiene menos personas Senior (39,8 % frente a 61,1 %). Las medianas de Datos e IA superan el piso del convenio AGC en todos los niveles.
+- **P1 · No es solo CABA:** en el resto del país, Datos e IA cobra más en los tres niveles (+18 %, +19 % y +10 %). Fuera de CABA hay pocas respuestas: los valores son orientativos.
+- **P2 · Por habitante:** Tierra del Fuego ($2.326), CABA ($1.188) y La Rioja ($1.000) superan el promedio nacional ($497); Buenos Aires, la que más recibió en total (29,3 %), queda por debajo ($399).
+- **P2 · Tamaño de cada beneficio:** en las provincias con pocos beneficios, cada uno fue de más dinero: Chubut ($16,8 M), Río Negro ($14,8 M) y Entre Ríos ($14,7 M) frente a CABA ($9,9 M); el beneficio típico del país es de $10 M.
+- **P3 · Fondos y empleo:** 22 de las 24 provincias reciben fondos por encima de su peso en el empleo informático; CABA concentra el 38,4 % del empleo y recibió el 16,5 % de los fondos (índice 0,43).
+
 *Sprint 2 (datos limpios, indicadores relativos):*
 - **P1:** a igual seniority, Datos e IA cobra igual o más que el resto de IT (+20,9 % Junior, +15,8 % Semi-Senior); la mediana total es menor por efecto composición. La ventaja se mantiene fuera de CABA.
 - **P2:** por habitante (pesos de 2023), Tierra del Fuego ($2.326), CABA ($1.188) y La Rioja ($1.000) superan el promedio nacional ($497); Buenos Aires queda por debajo ($399).
@@ -91,6 +116,10 @@ Documento del EDA Sprint 2: [`reports/sprint2/PP1-S2-EDA-Sprint2.pdf`](reports/s
 ---
 
 ## Visualizaciones
+
+### Dashboard final (Sprint 3)
+
+Todas las páginas del dashboard (portada, P1.1 a P3.2 y glosario): [**ver el PDF del dashboard**](reports/sprint3/PP1-S3-EQ3-Entrega_final_dashboard_interactivo.pdf).
 
 ### EDA Sprint 2
 
@@ -115,7 +144,10 @@ Documento del EDA Sprint 2: [`reports/sprint2/PP1-S2-EDA-Sprint2.pdf`](reports/s
 ---
 
 ## Conclusiones
-Se completarán en el Sprint 3.
+- A igual experiencia, los perfiles de datos e inteligencia artificial cobran igual o más que el resto de IT, también fuera de CABA. Comparar solo totales lleva a una conclusión equivocada por el efecto composición.
+- Los fondos de los programas no siguen el tamaño de cada provincia ni su empleo informático: medidos por habitante y en proporción al empleo, se distribuyeron de forma más pareja entre provincias, y en las provincias con pocos beneficios cada beneficio fue más grande.
+- Comparar a igual seniority, por habitante y en proporción al empleo muestra lo que los totales esconden.
+- El análisis es descriptivo: muestra cómo se repartieron salarios y fondos, no explica por qué. Limitaciones: Sysarmy es una encuesta voluntaria; los programas llegan hasta 2023 (KIT 4.0 sin datos abiertos) y no se incluyen los beneficios impositivos del Régimen de Promoción (Ley 27.506).
 
 ---
 
@@ -133,19 +165,33 @@ Se completarán en el Sprint 3.
 │   ├── cep_empleo.ktr                     → Pentaho: empleo por provincia (CEP XXI)
 │   ├── validacion_salarios_sysarmy.ipynb  → validación de salarios (CEP XXI y convenio AGC)
 │   └── evidencia_comparativa_salarios.jpeg → gráfico de la validación de salarios
-├── solicitudes/      → pedido de datos de KIT 4.0 (Ley 27.275)
 ├── docs/
+│   ├── solicitudes/                              → pedido de datos de KIT 4.0 (Ley 27.275)
 │   ├── PP1-S1-Ficha-Conocimiento-del-Dominio.docx
 │   ├── PP1-S1-Preguntas-de-analisis.docx
-│   └── PP1-S1-Diccionario-de-Datos.xlsx
+│   ├── PP1-S1-Diccionario-de-Datos.xlsx
+│   ├── PP1-S2-DiccionarioDatos.xlsx
+│   ├── PP1-S2-Bitacora-ETL-Equipo3.csv            → bitácora de transformación ETL
+│   ├── PP1-S2-Check-Limpieza-Normalizacion.xlsx
+│   ├── PP1-S2-Registro-Errores-Herramienta.xlsx
+│   └── PP1-S3-DiccionarioDatos-Final.xlsx         → diccionario final (tablas, medidas DAX y uso por página)
 └── reports/
     ├── sprint1/
     │   ├── PP1-S1-EDA-Inicial.docx
     │   ├── PP1-S1-Ficha-Seguimiento-Sprint.docx
     │   ├── eda_resumen.xlsx
     │   └── graficos/
-    └── sprint2/
-        ├── PP1-S2-EDA-Sprint2.pdf
-        ├── EQ3_PP1_modelo.pbix   → modelo base de Power BI
-        └── graficos/             → gráficos del EDA Sprint 2
+    ├── sprint2/
+    │   ├── PP1-S2-EDA-Sprint2.pdf
+    │   ├── EQ3_PP1_modelo.pbix   → modelo base de Power BI
+    │   └── graficos/             → gráficos del EDA Sprint 2
+    └── sprint3/
+        ├── PP1-EQ3-Entrega_final_dashboard_interactivo.pbix  → dashboard final
+        ├── PP1-S3-EQ3-Entrega_final_dashboard_interactivo.pdf
+        ├── PP1-S3-Informe-Tecnico-Equipo3.pdf
+        ├── PP1-S3-EDA-Final.pdf
+        ├── PP1-S3-Insights-Consolidados.pdf
+        ├── PP1-S3-Presentacion-Data-Storytelling.pdf
+        ├── PP1-S3-Manual-de-Usuario-Tablero-Power-BI.pdf
+        └── PP1-S3-Retrospectiva-Equipo3.pdf
 ```
