@@ -1,3 +1,4 @@
+![Economía del Conocimiento en Argentina – Equipo 3](assets/banner.svg)
 # Economía del Conocimiento en Argentina – Análisis descriptivo
 
 **Equipo 3 - PP1 - Economía del Conocimiento - 2C - 2026**
@@ -33,7 +34,7 @@ El análisis es descriptivo: cuenta, resume y compara. No busca explicar causas 
 | Grilla del convenio AGC (enero 2026) | [informaticos.ar](https://informaticos.ar/convenios/) | P1 (validación) |
 | Honorarios recomendados (09-2026) | [CPCI Córdoba](https://cpcipc.org.ar/honorarios-recomendados/) | P1 (validación) |
 
-El programa vigente KIT 4.0 no tiene datos abiertos: se pidieron por la Ley 27.275 (ver [`docs/solicitudes/`](docs/solicitudes/)).
+El programa vigente KIT 4.0 no tiene datos abiertos: se pidieron por la Ley 27.275 (ver `solicitudes/`).
 Detalle, enlaces de descarga y registros de cada archivo: [`data/raw/LEEME.md`](data/raw/LEEME.md).
 
 ---
@@ -86,9 +87,8 @@ Documento del EDA Sprint 2: [`reports/sprint2/PP1-S2-EDA-Sprint2.pdf`](reports/s
 | Presentación (Data Storytelling) | [`reports/sprint3/PP1-S3-Presentacion-Data-Storytelling.pdf`](reports/sprint3/PP1-S3-Presentacion-Data-Storytelling.pdf) |
 | Manual de usuario del dashboard | [`reports/sprint3/PP1-S3-Manual-de-Usuario-Tablero-Power-BI.pdf`](reports/sprint3/PP1-S3-Manual-de-Usuario-Tablero-Power-BI.pdf) |
 | Diccionario de datos final | [`docs/PP1-S3-DiccionarioDatos-Final.xlsx`](docs/PP1-S3-DiccionarioDatos-Final.xlsx) |
-| Documentación del ETL (Sprint 2) | [Bitácora ETL](docs/PP1-S2-Bitacora-ETL-Equipo3.csv) · [Check de limpieza](docs/PP1-S2-Check-Limpieza-Normalizacion.xlsx) · [Registro de errores](docs/PP1-S2-Registro-Errores-Herramienta.xlsx) |
 | Retrospectiva del Sprint 3 | [`reports/sprint3/PP1-S3-Retrospectiva-Equipo3.pdf`](reports/sprint3/PP1-S3-Retrospectiva-Equipo3.pdf) |
-| Video de la exposición | [Ver en Google Drive](PEGAR-AQUÍ-EL-ENLACE-DEL-VIDEO) |
+| Video de la exposición | Se publicará en cuando esté en YouTube |
 
 El dashboard tiene portada interactiva, navegación (Inicio, Anterior, Siguiente), filtros, botón Restablecer, un panel **Datasets** con las fuentes de cada página y un glosario. El detalle de cada página está en el manual de usuario.
 
@@ -165,16 +165,17 @@ Todas las páginas del dashboard (portada, P1.1 a P3.2 y glosario): [**ver el PD
 │   ├── cep_empleo.ktr                     → Pentaho: empleo por provincia (CEP XXI)
 │   ├── validacion_salarios_sysarmy.ipynb  → validación de salarios (CEP XXI y convenio AGC)
 │   └── evidencia_comparativa_salarios.jpeg → gráfico de la validación de salarios
-├── docs/
-│   ├── solicitudes/                              → pedido de datos de KIT 4.0 (Ley 27.275)
+├── assets/
+│   └── banner.svg    → banner del README
+├── solicitudes/      → pedido de datos de KIT 4.0 (Ley 27.275)
+|── docs/
 │   ├── PP1-S1-Ficha-Conocimiento-del-Dominio.docx
 │   ├── PP1-S1-Preguntas-de-analisis.docx
 │   ├── PP1-S1-Diccionario-de-Datos.xlsx
-│   ├── PP1-S2-DiccionarioDatos.xlsx
-│   ├── PP1-S2-Bitacora-ETL-Equipo3.csv            → bitácora de transformación ETL
-│   ├── PP1-S2-Check-Limpieza-Normalizacion.xlsx
-│   ├── PP1-S2-Registro-Errores-Herramienta.xlsx
-│   └── PP1-S3-DiccionarioDatos-Final.xlsx         → diccionario final (tablas, medidas DAX y uso por página)
+│   ├── PP1-S2-Bitacora-ETL-Equipo3.csv
+│   ├── PP1-S2-Check-Limpieza-Normalizacion.pdf
+│   ├── PP1-S2-Registro-Errores-Herramienta.pdf
+│   └── PP1-S3-DiccionarioDatos-Final.xlsx  → diccionario final (tablas, medidas DAX y uso por página)
 └── reports/
     ├── sprint1/
     │   ├── PP1-S1-EDA-Inicial.docx
